@@ -8,6 +8,9 @@ hero:
   tagline: The (very unofficial) guide to CU Anesthesiology residency
   actions:
     - theme: brand
+      text: Rotations
+      link: /r/
+    - theme: alt
       text: QGenda glossary
       link: /ref/qgenda-glossary
     - theme: alt
