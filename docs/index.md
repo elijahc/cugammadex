@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "greenbook"
-  text: "CU ANES Green Book 2023=2024"
+  text: "CU ANES Green Book 2023-2024"
   tagline: The (very unofficial) guide to CU Anesthesiology residency
   actions:
     - theme: brand
