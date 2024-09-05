@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-export default {
+export default defineConfig({
   lang: 'en-US',
   title: 'greenbook',
   description: "The (very unofficial) guide to CU ANES residency",
@@ -24,17 +24,7 @@ export default {
     logo: '/greek-gamma.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+      { text: 'Rotations', link: '/r' }
     ],
     
     lastUpdated: {
@@ -67,4 +57,4 @@ export default {
       }
     },
   }
-};
+});
