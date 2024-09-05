@@ -70,7 +70,7 @@ Madeline.Juillard@cuanschutz.edu
 
 ## ANESTHESIA ROTATION SCHEDULING
 
-We use QGenda for all resident scheduling. This can be accessed on your phone via the app or online at www.qgenda.com. You will get access granted at orientation from Anesthesia Education administration.
+We use [QGenda](https://www.qgenda.com) for all resident scheduling. This can be accessed on your phone via the app or online at www.qgenda.com. You will get access granted at orientation from Anesthesia Education administration.
 
 QGenda is the place to check your schedule while you are on anesthesia rotations. Program may seem cumbersome at first, but you will get very comfortable with QGenda as it is what we use all of residency!
 
