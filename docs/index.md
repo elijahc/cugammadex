@@ -12,10 +12,16 @@ hero:
       link: /r/
     - theme: alt
       text: QGenda glossary
-      link: /ref/qgenda-glossary
+      link: /supplemental/qgenda-glossary
     - theme: alt
-      text: interns
-      link: /interns
+      text: PGY-1
+      link: /supplemental/interns
     - theme: alt
       text: contacts
-      link: /contacts
+      link: /supplemental/contacts
+---
+
+[[TOC]]
+
+## References
+This site was generated from content sourced from the original 2023-2024 Green Book [pdf](https://olucdenver-my.sharepoint.com/:b:/g/personal/elijah_christensen_cuanschutz_edu/EWoT0MEF5LhKkORS_LscBIMBpsfJ4x_4YukarSlVfCgnvQ?e=QwZBB1)

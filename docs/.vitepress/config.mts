@@ -33,6 +33,30 @@ export default defineConfig({
           { text: "NORA", link: '/r/nora'},
         ]}
     ],
+
+    sidebar: {
+      '/supplemental/': [
+        {
+          text: 'Supplemental',
+          items: [
+            // { text: 'Forward', link '/'},
+            { text: 'Important Contacts', link: '/contacts'},
+            { text: 'Housekeeping', link: '/house-keeping-items'},
+            { text: 'Intern Intro', link: '/interns'},
+            { text: 'QGenda Glossary', link: '/ref/qgenda-glossary'},
+          ],
+        },
+        {
+          text: 'Rotations',
+          items: [
+            { text: 'CT', link: '/r/ct'},
+            { text: 'NORA', link: '/r/nora'},
+            { text: 'OB', link: '/r/ob'},
+            { text: 'Transplant', link: '/r/txp'}
+          ]
+        }
+      ]
+    },
     
     lastUpdated: {
       text: 'Updated at',
