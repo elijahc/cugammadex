@@ -12,7 +12,6 @@ The primary focus of this month will be liver transplants, with time spent doing
 - Cara Crouch MD
 - Ana Fernandez-Bustamante MD
 - Naveen Kukreja MD
-- Erin Stewart MD
 - Barbara Wilkey MD
 - Pat Henthorn MD
 
