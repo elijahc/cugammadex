@@ -5,6 +5,8 @@ tags: anes-co
 draft: false
 ---
 
+> Adapted from the [CU OB Anesthesia Cookbook 2023](https://olucdenver-my.sharepoint.com/:w:/g/personal/elijah_christensen_cuanschutz_edu/ERXAtW5cg7xDhUwT6gpvMQoBkygnnDVeeKJCY-CWoGyeUA?e=aAc7ss)
+
 Patients come into the hospital once they begin the *active* part of labor. OB anesthesiologists get involved to provide analgesia during both labor, delivery (C-section or vaginal), and post partum
 
 # Labor Analgesia

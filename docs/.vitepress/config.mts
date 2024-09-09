@@ -24,7 +24,14 @@ export default defineConfig({
     logo: '/greek-gamma.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Rotations', link: '/r' }
+      { text: 'Rotations',
+        items: [
+          { text: "All rotations", link: '/r'},
+          { text: "CT Anes", link: '/r/ct' },
+          { text: "OB Anes", link: '/r/ob'},
+          { text: "Txp Anes", link: '/r/txp'},
+          { text: "NORA", link: '/r/nora'},
+        ]}
     ],
     
     lastUpdated: {

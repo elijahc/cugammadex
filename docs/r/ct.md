@@ -1,9 +1,10 @@
 ---
 title: Cardiothoracic Anesthesia
 tags: ct-anes, rotation-guide
+outline: [2,4]
 ---
 
-# Cardiothoracic Service - UCH
+# Cardiothoracic Anesthesia Rotation Guide
 
 **Attendings**:
 *Lyndsey Grae, Ben Abrams, Bryan Ahlgren, Nathan Clendenen, Tamas Seres, Breandan Sullivan, Barb Wilkey, Sarah Alber, Doug Rooke, Broc Burke, Markus Kowalsky*
@@ -142,3 +143,7 @@ to the general OR pool if there are not enough cardiac and/or thoracic cases.
 - Replace dressing on cordis/MAC if necessary (antibiotic disc and Tegaderm).
 - Patient remains intubated 95% of the time.
 - Transport to CTICU (bring emergency drugs).
+
+## Resources
+- [Cardiac Anesthesiology Made Incredibly Simple](https://www.cardiacengineering.com/cardiaca.htm)
+- 

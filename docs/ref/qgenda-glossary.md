@@ -2,7 +2,11 @@
 
 *Kelsey Repine MD, Brian Tashjian MD, Added July 2023*
 
-We use QGenda for our scheduling and there are a lot of abbreviations. Below is a list of common abbreviations and what that actually means for your schedule.
+> [!NOTE]
+> [Resident Call](https://app.qgenda.com/link/view?linkKey=a2f4aeb1-b6da-4b0f-b430-c6ef72935427) - 
+> [Faculty Call](https://app.qgenda.com/Link/view?linkKey=0918c1e2-da08-49b4-b2a2-c3942f460789)
+
+We use [QGenda](https://app.qgenda.com/Dashboard/Company/33280b0e-7779-4a51-a205-9cd2cd934f2c) for our scheduling and there are a lot of abbreviations. Below is a list of common abbreviations and what that actually means for your schedule.
 
 ## UCH
 

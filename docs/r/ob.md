@@ -15,7 +15,8 @@
 
 ## Phone Numbers
 
-New phone system in place (no specific numbers provided)
+- OB Att [x85973](tel:+17208485973)
+- OB APP [x85911](tel:+17208485911)
 
 ## Scheduled Meetings
 
@@ -36,9 +37,16 @@ You MUST orient with the OB anesthesia service the WEEK PRIOR to the start of yo
 You will receive an email before your rotation starts with several attachments containing information about the rotation:
 
 - Standard doses for spinals/epidurals (The [cookbook](../ref/ob-cookbook.md))
-- A procedure guide
+- A [procedure guide](https://olucdenver-my.sharepoint.com/:w:/g/personal/elijah_christensen_cuanschutz_edu/EcOr-g1Lh9RDmAu3L1PXrD0BsQSnC58v4j9DhMlVoluwsw?e=aFwn4f)
 - A reading list
+::: details
+**Reading list from 2024:**
+- [ACOG Practice Bulletin 209](/ACOG-PB-209.pdf)
+- [ASA-RCL-2023](/ASA-RCL-2023.pdf)
+- [OB Anesthesia Emergencies](/OB-anesthesia-emergencies-review-2022.pdf)
 
+:::
+   
 Read these before you start and print out the cookbook and procedure guide to carry with you. You will also receive an OB anesthesia work room. As always, Morgan and Mikhail is not a bad place to start.
 
 ## Vacation
@@ -65,35 +73,59 @@ That said, the OB rotation is a really good one, much loved by all for several r
 
 2. The OB nurses are great. They are very knowledgeable and helpful. They will call us for procedures so that we can get experience. Again, tough in the middle of the night sometimes, but that is what we are here for.
 
-3. There is a cookbook with standard doses for spinals/epidurals. It is very helpful to print it out and put it in your pocket or attach the card to your badge.
+3. There is a [cookbook](../ref/ob-cookbook.md) with standard doses for spinals/epidurals. It is very helpful to print it out and put it in your pocket or attach the card to your badge.
 
 4. There is a cognitive aid on each epidural cart as well as in the OR that can help you work through decision making, dosing decisions, etc.
 
 ## Pearls
 
-- ALWAYS CHECK YOUR ORs at the start of the shift. This is especially important at night when there is less help. You never want to be caught off guard when a stat C-section comes in.
+> [!WARNING]
+> ALWAYS CHECK YOUR ORs at the start of the shift. This is especially important at night when there is less help. You never want to be caught off guard when a stat C-section comes in.
 
-- The ORs should always be set up for an emergent C-section type scenario. Believe me, you do not want this scenario to happen when there is no laryngoscope. Check that everything is ready to go as if you were going to do a crash section. This includes making sure videoscope is prepped/functional (either C-MAC or Glidescope in each L&D OR). However, just like the main OR all airway equipment must remain sealed until it is going to be used this is per hospital infection control requirement.
+- The ORs should always be set up for an emergent C-section type scenario. Believe me, you do not want this scenario to happen when there is no laryngoscope in the OR… or no Etomidate/Propofol available, etc. So just check that everything is ready to go as if you were going to do a crash section This includes making sure videoscope is prepped/functional (either C-MAC or Glidescope in each L&D OR).
+> [!IMPORTANT]
+> Just like the main OR all airway equipment must remain sealed until it is going to be used—this is per hospital infection control requirement.
 
-- OR Pyxis contains all narcotics. We now have L&D narcotic bags that contain: P20 x 1, fent 100 mcg, ephedrine 50 mg, Morphine 5mg (or 10 mg). Search for the narcotic bag in the pyxis.
+- OR Pyxis contains all narcotics. We now have L&D narcotic bags, Type “L&D” to search for the narcotic bag in the pyxis
+::: details
+   **L&D Narc Bag**:
+   - P20 x1
+   - fent 100 mcg
+   - ephedrine 50 mg
+   - morphine 5mg (or 10 mg – check prior)
+   - midazolam 2mg.
+:::
 
-- We no longer have direct access to uterotonics (other than Pitocin). The floor nurses can pull the other uterotonics for you. If you need emergency access to uterotonics you can get them from the nurses, but these should be reserved for higher acuity situations. During the timeout, please discuss the potential need for other uterotonics so the circulating RN can get it for you.
+- We no longer have direct access to uterotonics (other than Pitocin). The floor nurses can pull the other uterotonics for you. If you need everything emergently, you can also request a “tackle box” from the nurses, but these should be reserved for higher acuity situations. During the timeout, please discuss the potential need for other uterotonics so the circulating RN can get it for you.
 
-- Use the APPs as a resource. The APPs that do OB have had a lot of OB experience. You can ask them questions, ask them for help, whatever. This is especially helpful at night. Don't forget to call them for help with difficult epidurals. They can be a helpful second (or third) set of hands in those situations. Always call them for any STAT cases or other emergencies.
+- Use the APPs as a resource. The APPs that do OB have had a lot of OB experience. You can ask them questions, ask them for help, whatever. This is especially helpful at night. Don't forget to call them for help with difficult epidurals. They can be a helpful second (or third) set of hands in those situations.
+::: warning
+**Always call the OB APP (x85911) for any STAT cases or other emergencies.**
+:::
 
 - OB RNs are very involved with their patients. They really want what is best for their patients. Sometimes that may come across as them trying to push us around. For the majority of them, this is not true. They want us to put epidurals in ASAP so that their patients will not be miserable and in pain. Exactly what we want. However, we all understand that we have to do it safely. As a rule, we have told them that if a patient calls for an epidural, they should expect us within 10 MINUTES. If you do not believe you can be there in that time, please have them call the APP.
 
-- This is not a high priority but should be done as soon as reasonably possible as it does allow a more streamline approach at the time of actual request.
+- You may also be called to “consent a patient who wants an epidural but is not ready yet”. This is not a high priority but should be done as soon as reasonably possible as it does allow a more streamline approach at the time of actual request.
 
 - Figure out how to restock the carts properly at the very beginning of the month. We have to restock our own epidural carts from the workroom supplies. Learn how to do it at the beginning so all of the carts aren't missing stuff by the middle of the month. The carts must be restocked and cleaned in between each patient and then placed back in the clean room ready for the next patient. If you have an AA student rotating with you this is something they are typically VERY helpful with. The floor RN will bring the cart to the anesthesia workroom for cleaning, but you must place it back in the patient rooms. If you do need anesthesia tech support, call the usual phone numbers.
 
-- EPIC charting on the OB floors will look different than what you are used to in the OR. It is best to log in and open the chart in the workroom or on a computer in the hall. There is a macro listed for OB Labor Epidurals, OB regional C/S, etc. These are really helpful. When doing an epidural, pick "Link Device" and select the appropriate monitor. This will automatically populate your vitals. You will not receive vital signs during the epidural placement. After you finish the procedure unlink the device. If you forget to unlink, the nurses will call you because they cannot do their charting.
+- EPIC charting on the OB floors will look different than what you are used to in the OR. It is best to log in and open the chart in the workroom or on a computer in the hall. There is a macro listed for OB Labor Epidurals, OB regional C/S, etc. These are really helpful. When doing an epidural, pick the "OB Labor Epidural" macro and then Start Anesthesia and "Link Device" and select the appropriate monitor. This will automatically populate your vitals. 
 
+> [!WARNING] 
+> If you do not link the device, you will not receive vital signs during the epidural placement.
+> 
+> It's possible to backfill the vitals, but most of the attendings won't know how to do this and it's not intuitive
+
+- After you finish the procedure unlink the device. If you forget to unlink, the nurses will call you because they cannot do their charting.
 - You should remain near the patient monitoring them for at least 15 minutes after the epidural placement or a bolus. After the initial placement, you must put vital signs in the chart every hour to get these vitals in EPIC under the flowsheet and enter them in our record by hand. It is a good idea to do this a couple times during your shift or whenever you get some downtime, so you don't fall behind. Things can go from quiet to crazy relatively quickly on the floor. After placing an epidural or doing any other procedure (C/S, cerclage, etc), add the patient to our shared OB patient list with any pertinent information to be followed up in a postop visit. More detailed information regarding charting can be found in the procedure handout you receive prior to starting.
 
-- OB is a very service-oriented rotation, if you get called while you are doing something and cannot get there in a timely manner, please let the RN know and ask them to call the APP that is on or if both you and APP are busy, please let attending know.
+> [!NOTE]
+> OB is a very service-oriented rotation, if you get called while you are doing something and cannot get there in a timely manner, please let the RN know and ask them to call the APP that is on or if both you and APP are busy, please let attending know.
 
-As always, it is best to spend some time on the OB floor getting oriented before your first day on OB. There are many differences to your OB month, so it's best to know where the OR/workroom/pyxis/call rooms are located. This rotation can be a lot of fun, but things happen quickly and it's nice to be prepared.
+> [!TIP]
+> As always, it is best to spend some time on the OB floor getting oriented before your first day on OB. 
+
+There are many differences to your OB month, so it's best to know where the OR/workroom/pyxis/call rooms are located. This rotation can be a lot of fun, but things happen quickly and it's nice to be prepared.
 
 ## Common Situations on the OB Floor
 
@@ -110,11 +142,11 @@ As always, it is best to spend some time on the OB floor getting oriented before
 9. Glove up.
 10. Place epidural with attending present
 11. Set up CADD pump with epidural bag.
-    a. Press "Tasks" button.
-    b. Press "Reservoir Volume" button.
-    c. Press "Prime Tubing" button.
-12. Ask RN for L&D Anesthesia chart from RN.
-13. Document epidural placement and any medications given.
+    a. Full epidural: "PIB+PCEA" @ 10cc/q45 mins w/ 10min PCEA lockout
+    b. Walking epidural: “Continuous + PCEA” run 5cc/q1h continuous remove PCEA button.
+    c. Intrathecal catheter: “Continuous + PCEA” run 2cc/1h continuous remove PCEA button.
+12. Obtain “timeout” and “IT” time for chart from RN.
+13. Finish charting “Staff”, “Px Note” and “Meds” given.
 14. Update handoff
 
 ### Patient having more pain with an epidural
@@ -140,7 +172,7 @@ As always, it is best to spend some time on the OB floor getting oriented before
 
 1. Grab 20 cc syringe and chloroprocaine 3%.
 2. Attempt to find charge RN or OB chief/attending (most likely at bedside) to see timing of c-section.
-3. If going back emergently or urgently dose all 20 cc of 3% 2-chloroprocaine into epidural stay with patient, have phenylephrine on hand, call OB CRNA to start setting up whichever OR, and call OB Attending
-   ***Depending on timing of how quickly you are rolling back, be ready to convert to general***
-   WILL NEED TO REDOSE at 30-45minute mark DURING CASE as Chloroprocaine has a very short half-life. Discuss with attending whether to use 2-Chloroprocaine or another local anesthetic.
+3. If going back emergently or urgently dose all 20 cc of 3% 2-chloroprocaine into epidural stay with patient, have phenylephrine on hand, call OB CRNA to start setting up whichever OR, and call OB Attending. WILL NEED TO REDOSE at 30-45minute mark DURING CASE as Chloroprocaine has a very short half-life. Discuss with attending whether to use 2-Chloroprocaine or another local anesthetic.
+> [!CAUTION]
+>***Depending on timing of how quickly you are rolling back, be ready to convert to general***
 4. If NON-emergent discuss with attending prior to dosing.
