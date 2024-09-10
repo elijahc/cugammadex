@@ -37,7 +37,7 @@ export default defineConfig({
     sidebar: {
       '/supplemental/': [
         {
-          text: 'Supplemental',
+          text: 'Extras',
           items: [
             // { text: 'Forward', link '/'},
             { text: 'Important Contacts', link: '/contacts'},
