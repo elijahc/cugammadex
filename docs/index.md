@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: contacts
       link: /supplemental/contacts
+    - theme: alt
+      text: links
+      link: /supplemental/links
 ---
 
 [[TOC]]
