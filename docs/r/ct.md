@@ -23,7 +23,7 @@ to the general OR pool if there are not enough cardiac and/or thoracic cases.
   - The CT1 resident is the last to leave, very unlikely that you will be called back in as a CT 3 or 4
   - The culture (and your expe rience) on CT can be defined by how you and your CT co residents collaborate and help each other with breaks, preops, consents, etc. This is very much a team sport rotation.
 - If a resident stays till past 9pm they will have a post call day the next day.
-  - If you are postcall, please send an email to the chiefs email and charge email prior to leaving the hospital, as well as writing your name and postcall on the board. Further in structions can be found under the [House Keeping Items section](../house-keeping-items.md)
+  - If you are postcall, please send an email to the chiefs email and charge email prior to leaving the hospital, as well as writing your name and postcall on the board. Further in structions can be found under the [House Keeping Items section](../supplemental/house-keeping-items.md)
 - During some weeks/rotations, night float will be available to provide relief for cases running late, however their duties are split between CT and Liver transplant, so availability depends on what else is going on in the OR.
 - Cardiac conference (via Zoom) is every Thursday morning at 6:30 am and Echo rounds are Friday morning at 6:30am. Att endance is required for both. You can find these links in your calander emailed to you.
 
