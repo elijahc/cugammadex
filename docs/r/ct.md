@@ -14,6 +14,10 @@ outline: [2,4]
 
 The cardiothoracic month can be one of the more grueling rotations for residents during their anesthesia training. The combination of elaborate case setups, long call shifts, high acuity cases with the sickest patients in the hospital tends invoke a level of anxiety when first rotating through. You will endure a gauntlet of complex patients testing your physiology, pharmacology, and procedural skills. Yes, it’s tough, but with committed teamwork amongst your resident co hort and support from attending/fellows for the month, the CT rotation can be the most rewarding and beneficial to your anesthesia training.
 
+> [!WARNING]
+> New as of 12/2024 there will be required education modules where the expectation is to complete 2 for every month on CT
+> You can search for these modules on cupropofol.com or (maybe) using this [direct link](https://olucdenver.sharepoint.com/sites/Anesthesiology/Shared%20Documents/Forms/AllItems.aspx.aspx?FolderCTID=0x01200043094399E131D24E92B2DEFFBE59067D&id=%2Fsites%2FAnesthesiology%2FShared+Documents%2FOLD+Manuals+%26+Protocols%2FResident+Training+Manuals%2FCardiothoracic%2FUpdated+Curriculum%2FCT+Resident+Modules)
+
 ## Rotation Breakdown
 - Residents are assigned CT1 CT6 shifts throughout the week on a rotating schedule and can be assigned
 to the general OR pool if there are not enough cardiac and/or thoracic cases.
@@ -146,4 +150,4 @@ to the general OR pool if there are not enough cardiac and/or thoracic cases.
 
 ## Resources
 - [Cardiac Anesthesiology Made Incredibly Simple](https://www.cardiacengineering.com/cardiaca.htm)
-- 
+- [CT Resident Modules](https://olucdenver.sharepoint.com/sites/Anesthesiology/Shared%20Documents/Forms/AllItems.aspx.aspx?FolderCTID=0x01200043094399E131D24E92B2DEFFBE59067D&id=%2Fsites%2FAnesthesiology%2FShared+Documents%2FOLD+Manuals+%26+Protocols%2FResident+Training+Manuals%2FCardiothoracic%2FUpdated+Curriculum%2FCT+Resident+Modules)
