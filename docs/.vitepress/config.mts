@@ -58,6 +58,10 @@ export default defineConfig({
       ]
     },
     
+    editLink: {
+      pattern: 'https://github.com/elijahc/cugammadex/edit/main/docs/:path'
+    },
+
     lastUpdated: {
       text: 'Updated at',
       formatOptions: {
