@@ -30,6 +30,7 @@ export default defineConfig({
           { text: "CT Anes", link: '/r/ct' },
           { text: "OB Anes", link: '/r/ob'},
           { text: "Txp Anes", link: '/r/txp'},
+	  { text: "CTICU", link: '/r/cticu'},
           { text: "NORA", link: '/r/nora'},
         ]}
     ],
