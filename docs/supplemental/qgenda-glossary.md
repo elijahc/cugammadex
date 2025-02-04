@@ -8,7 +8,9 @@
 
 We use [QGenda](https://app.qgenda.com/Dashboard/Company/33280b0e-7779-4a51-a205-9cd2cd934f2c) for our scheduling and there are a lot of abbreviations. Below is a list of common abbreviations and what that actually means for your schedule.
 
-## UCH
+## Shift names
+
+### UCH
 
 - **Res-OR**: General OR rotation
 - **R1A**: Weekend inhouse call, 7A-7P
@@ -24,29 +26,29 @@ We use [QGenda](https://app.qgenda.com/Dashboard/Company/33280b0e-7779-4a51-a205
 - **Res-Priority**: Priority resident prioritized for relief from the general call pool
 - **Res-X**: Postcall/day off/no clinical duties
 
-## APS
+### APS
 
 - **Res-APS Pain**: Pain rounding service
 - **Res-APS Regional**: Pain block service
 - **Res-APS Late**: Last resident out, 7pm signout
 - **Res-APS 12 Hour**: Weekend coverage, 7a-7p
 
-## CTICU
+### CTICU
 
 - **Res-CTICU Rounding**: Day rounding, 6a-4p (signout)
 - **Res-CTICU Call**: Weekdays: 4p-6a, Weekends 24hr (6a-6a)
 - **Res-CTICU X**: Postcall/Day off/No clinical duties
 
-## STICU
+### STICU
 
-## OB
+### OB
 
 - **OBA**: "Long person", 6a-6p
 - **OB Short**: "Short person", 6a-3p (usually; relieved by attendings)
 - **OBP**: Overnight 6p-6a
 - **OBX**: Postcall/Day off/No clinical duties
 
-## Miscellaneous
+### Miscellaneous
 
 - **Res ADM**: Administrative Day
 - **Res A**: Academic Day
