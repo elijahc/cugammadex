@@ -29,6 +29,9 @@ staffed. You will typically be assigned 3-4 patients during the day.
 
 ## Daily Workflow
 
+Most days follow the same pattern, first thing in the morning is fellow rounds with the CT Surgery fellow, 
+followed by pre-rounding, ICU/Attending rounds, then everything else before signout at 4p.
+
 ### Fellow rounds
 Arrive around 5:45 – 6:00 AM depending on the census. I overnight resident will have
 printed off a sign out list for you and filled in many of the numbers (Vitals, Swan numbers, I/Os) The
@@ -37,6 +40,19 @@ will briefly present cardiac patients ONLY to the cardiac fellow. – There you 
 hear a brief daily plan from the fellow/night resident. Thereafter, the night resident
 will give sign out on the rest of the unit patients (Thoracic and Vascular patients)
 and answer any questions.
+
+> [!TIP]
+> Goal of 2-3 mins per patient
+> - One liner with notable 24H events
+> - Remains in the ICU for the following
+> - Resp status (how much NC or vent settings)
+> - Review of vasoactives
+> - Overall I/O total and did we hit our goal; what's our diuresis plan, is CRRT something like we need to consider?
+> - Drains in place with outputs and how we will manage them
+> - Pacing wires present? How will we manage them?
+> - Pertinent labs: CBC, coags, SCr, ABG
+> - AC plans?
+> - Finally, high-priority, patient specific items if needed 
 
 ### Pre-rounds
 You then have time between fellow rounds and attending rounds to completely lookup and
@@ -49,14 +65,17 @@ Make sure everyone is seen by the time rounds start. There are rare days where y
 CTICU attending rounds start around 8 AM and the length is quite variable 
 depending on the attending, ranging from brief to comprehensive (surgical attendings prefer brevity).
 
-#### Presentations
-Start with Name, POD# s/p surgery. Note any significant intraoperative events. Then 
-significant 24hr events. Then jump to Assessment/Plan by system (Neuro-including sedation/pain, CV, 
-Pulm, Renal, ID, Endo, FEN. Finish with review of invasive lines, meds and dispo.)
+> [!TIP]
+> **Presentations**:
+> - Start with Name, POD# s/p surgery. Note any significant intraoperative events.
+> - Then significant 24hr events.
+> - Then jump to Assessment/Plan by system (Neuro-including sedation/pain, CV, Pulm, Renal, ID, Endo, FEN.
+> - Finish with review of invasive lines, meds and dispo.
 
 ## Shifts
-Weekday rounding (6AM-4PM), Admitting M-F (10AM-10PM), Weekday night call (4PM-7AM), Weekend
+There are essentially 4 types of shifts: Weekday rounding (6AM-4PM), Admitting M-F (10AM-10PM), Weekday night call (4PM-7AM), Weekend
 24h call (7AM-7AM)
+
 ### Weekday Rounding
 6AM-4PM, you should plan on arriving shortly before fellow rounds. The 
 overnight resident/APP will present the cardiac patients, so you don’t need to worry about fully looking 
@@ -80,7 +99,9 @@ Shift begins at 4PM, you split the list with an APP or surgery moonlighter and g
 signout. At approx. 10PM or earlier if it is slow, the admitting provider will sign out the days admits for 
 you to cross-cover overnight. If any admits come in after the admitter goes home, you are responsible 
 for admitting (alternating with APP/moonlighter) and staffing with the attending overnight.
-**Weekend 24h Call:** Shift is 7AM- ~8AM the following day. Arrive shortly before 7AM for fellow 
+
+### Weekend 24h Call
+Shift is 7AM- ~8AM the following day. Arrive shortly before 7AM for fellow 
 rounds with the overnight team. You will split the unit with 1-2 APPs. You will round and carry out 
 duties as normal. You will split daytime and overnight admissions with the other provider on the unit. 
 At 4PM the day APP signs out and you will split the list with either another APP or a general surgery 
