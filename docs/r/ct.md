@@ -148,6 +148,35 @@ to the general OR pool if there are not enough cardiac and/or thoracic cases.
 - Patient remains intubated 95% of the time.
 - Transport to CTICU (bring emergency drugs).
 
+## Thoracic
+
+These are typically straightforward cases, many are robotic. Almost all will get a second PIV
+
+### Bronchoscopy
+
+> [!WARNING]
+> If its a first case, expect Mitchell to ask to roll back early
+
+**Airway:** Often LMA or large ETT if NMB needed
+**GA:** Usually propofol TIVA, can't rely on consistent gas delivery
+
+
+### Lobectomy
+
+> [!WARNING]
+> During Timeout they will ask about SQH and that a T&S is available
+
+- **Airway:** DLT [Sizing guide](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nejm.org%2Fdoi%2Ffull%2F10.1056%2FNEJMvcm2026684&psig=AOvVaw0ARpxNWFxWjgddbkPyc5NP&ust=1738768930279000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDdu5WpqosDFQAAAAAdAAAAABAE)
+- **GA:** Usually sevo
+- **Access:** usually 2nd PIV, possible A-line
+- **Gtts:** phenylephrine available but not wet down
+- **Pain:** Most of the surgeons are ok w/ pre-emergence ESP's
+
+> [!TIP]
+> Ask the tech's for a bronch tower w/ CMAC
+
+Shoot for 3-5cc/kg IBW for tidal volumes with one-lung ventilation. I usually do this using PSV instead of PCV-VG
+
 ## Resources
 - [Cardiac Anesthesiology Made Incredibly Simple](https://www.cardiacengineering.com/cardiaca.htm)
 - [CT Resident Modules](https://olucdenver.sharepoint.com/sites/Anesthesiology/Shared%20Documents/Forms/AllItems.aspx.aspx?FolderCTID=0x01200043094399E131D24E92B2DEFFBE59067D&id=%2Fsites%2FAnesthesiology%2FShared+Documents%2FOLD+Manuals+%26+Protocols%2FResident+Training+Manuals%2FCardiothoracic%2FUpdated+Curriculum%2FCT+Resident+Modules)
