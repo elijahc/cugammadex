@@ -30,7 +30,7 @@ export default defineConfig({
           { text: "CT Anes", link: '/r/ct' },
           { text: "OB Anes", link: '/r/ob'},
           { text: "Txp Anes", link: '/r/txp'},
-	  { text: "CTICU", link: '/r/cticu'},
+	        { text: "CTICU", link: '/r/cticu'},
           { text: "NORA", link: '/r/nora'},
         ]}
     ],
@@ -54,6 +54,18 @@ export default defineConfig({
             { text: 'NORA', link: '/r/nora'},
             { text: 'OB', link: '/r/ob'},
             { text: 'Transplant', link: '/r/txp'}
+          ]
+        }
+      ],
+      '/r/': [
+        {
+          text: 'Rotations',
+          items: [
+            { text: "CT Anes", link: '/r/ct' },
+            { text: "OB Anes", link: '/r/ob'},
+            { text: "Transplant Anes", link: '/r/txp'},
+            { text: "CTICU", link: '/r/cticu'},
+            { text: "NORA", link: '/r/nora'},
           ]
         }
       ]
