@@ -148,6 +148,31 @@ to the general OR pool if there are not enough cardiac and/or thoracic cases.
 - Patient remains intubated 95% of the time.
 - Transport to CTICU (bring emergency drugs).
 
+## CTS edge cases
+
+### Robotic mitral valve
+
+- Exclusions:
+  - moderate AI or worse
+  - BMI >40
+  - EF <30%
+  - no femoral vascular access
+  - pulmonary function prohibiting one lung ventilation
+
+##### Major differences
+- Cannulation: Peripheral fem access for CPB, usually with a dual stage cannula
+> [!WARNING]
+> CTS favors leaving LIJ for them just in case
+
+- Airway: **DLT** [Sizing guide](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nejm.org%2Fdoi%2Ffull%2F10.1056%2FNEJMvcm2026684&psig=AOvVaw0ARpxNWFxWjgddbkPyc5NP&ust=1738768930279000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDdu5WpqosDFQAAAAAdAAAAABAE)
+> [!TIP]
+> You will need to exchange DLT for standard ETT at end of the case
+- Access: **LIJ** MAC/Swan, **LRAL**
+- Pain: Pre-op ESP w/ APS
+
+
+[MVproto](https://olucdenver-my.sharepoint.com/:b:/g/personal/elijah_christensen_cuanschutz_edu/EWMxkJ2gbAZJm2_fFC2qUvMBfXQbGnvOCIqGeBP_BhgSVQ?e=cAlDen)
+
 ## Thoracic
 
 These are typically straightforward cases, many are robotic. Almost all will get a second PIV
@@ -180,3 +205,4 @@ Shoot for 3-5cc/kg IBW for tidal volumes with one-lung ventilation. I usually do
 ## Resources
 - [Cardiac Anesthesiology Made Incredibly Simple](https://www.cardiacengineering.com/cardiaca.htm)
 - [CT Resident Modules](https://olucdenver.sharepoint.com/sites/Anesthesiology/Shared%20Documents/Forms/AllItems.aspx.aspx?FolderCTID=0x01200043094399E131D24E92B2DEFFBE59067D&id=%2Fsites%2FAnesthesiology%2FShared+Documents%2FOLD+Manuals+%26+Protocols%2FResident+Training+Manuals%2FCardiothoracic%2FUpdated+Curriculum%2FCT+Resident+Modules)
+- [Anesthetic considerations in robotic mitral valve surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC5293623/)
