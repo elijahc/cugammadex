@@ -25,7 +25,7 @@ The culture in the HVC is quite different than the operating room. If you open a
 
 ### Supplies:
 - The anesthesia equipment room is next to procedure room 1, it is room #3365 (the code to get in is the room number). It should have things like a CMAC, level 1, etc. There are other random anesthesia goodies on a shelf in the back left corner (circuits, tubes, etc.…).
-::: important
+::: info
 If your room does not have an anesthesia machine or cart when you get there in the morning, just call your tech (**x8-7967**) for assistance.
 :::
 If you run into an emergency, **CALL FOR EQUIPMNET EARLY** as it may take some time to get there.
