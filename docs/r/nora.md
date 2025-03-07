@@ -19,7 +19,7 @@ Prior to entering the MRI room, don’t forget to remove ALL metal objects as we
 
 The MRI tech will always be present when you have access to the MRI room. In the basement, there is usually a tech around; however, they only come up for scheduled scans (with or without our involvement) upstairs. The phone number to the upstairs control room is x81690. The anesthesia tech also relies on the MRI tech to get into the room to set up your machine and cart.
 
-### Pre-op:
+### Pre-op
 - Make sure the patient has filled out their MRI screening form before you give any sedation and go back to the room. Many of these patients are receiving anesthesia because they are claustrophobic. No proceduralist will be there because the scan was ordered by an outpatient provider.
 - Non-sedated patients can walk into the MRI suite and get onto the bed themselves. Otherwise, park the gurney in the control room, the MRI tech will bring the MRI bed out and then help you wheel that in once the patient is on it. You will typically induce on this bed next to the MRI, the tech can help lower/raise/etc.
 ### Monitors
@@ -62,12 +62,90 @@ GI is adjacent to the East ORs. There are a couple of suites as well as a small 
 ## HVC - IR/EP/Cath lab
 The HVC is on AIP2 3rd floor. There are typically four anesthesia teams in this area for a normal day. We may be involved with IR, neuro-IR, interventional cardiology, and EP cases. The CT-guided ablations are typically a HVC team, although these occur in the basement CT scanner. On occasion, we provide anesthesia for vascular surgery, pulmonology (bronchoscopies), MSK (kyphoplasties), and the ECHO cardiology service (sedation for TEE) as well.
 
-
 The culture in the HVC is quite different than the operating room. If you open a dialogue with folks generally you will find that they are very willing to help, but don’t know what to do. Try to engage the procedure room nurses when you are inducing and emerging. This will help them both learn what you need and allow them to be helpful in the case of emergency. Write your phone number and your attending’s phone number on the white board in the room. While this is the typical practice in the general OR, it is especially important in HVC as your attending can be far away and the rooms are not arranged with the anesthesia team in mind. Unlike in the main OR, the nurses in the HVC usually do not have an up-to-date phone list. It will take time for them to find your attending’s phone number if you need them to call for help!
 
+### IR Cookbook by case
 
-### EQUIPMENT
-Most if not all of the equipment we have available downstairs (Level 1, Belmont, Cmac, glidescope, etc) is also updstairs, but it may take longer to get. If you need it, let your tech know ahead of time! If you run into an emergency, CALL FOR IT EARLY as it will take some time to get there.
+#### Fistulogram
+- MAC or GETA
+- Supine, operative arm out
+- Angioplasty is very painful
+- Confirm last dialysis, K+
+
+#### Embolization
+- MAC or GETA
+- supine
+- For active bleeding, keep in mind longer transit times for labs and blood and prepare ahead!
+
+#### Percutaneous gastrostomy
+- MAC or GETA, light MAC strongly preferred for ALS patients
+- supine
+- NG will be placed for gastric insufflation
+- Glucagon administered prior to gastrostomy, proceduralist will request dose at appropriate time
+- Ultrasound and fluoroscopy guidance for percutaneous access to gastric lumen, then gastrostomy tube is placed, and NG tube removed
+
+#### Kyphoplasty
+- MAC or GETA
+- Prone
+- Bone cement used
+
+#### Nephrostomy (PCN)
+- MAC or GETA
+- Prone
+
+#### PTCA (Percutaneous Transhepatic Cholangiogram) and PTBD (Percutaneous Biliary Drain)
+- Usually GETA, occasionally MAC
+- Supine
+- Procedure length dependent on whether bile duct is dilated
+- High risk for intraop sepsis
+
+#### TACE (Transarterial Chemoembolization) aka Y90
+- GETA or light MAC (frequent breath holds needed)
+- supine
+- Chemotherapy is injected directly into the vessels supplying a liver tumor
+- Decadron/Zofran usually ordered and administered pre-op, check the MAR, don’t double dose
+
+#### TIPS
+- GETA
+- Supine, R IJ access, sometimes femoral as well
+- For control or prevention of variceal hemorrhage and/or intractable ascites
+
+::: warn
+BRTO/CARTO sometimes done in conjunction with TIPS to reduce the risk of bleeding in gastric esophageal varices. Catheter is used to access the varices, coils are deployed to occlude flow at the distal end. A sclerosing agent is then injected into the varices to harden the tissue and prevent blood flow
+:::
+
+#### Chest Port
+- MAC
+- These are usually done with RN administered moderate sedation
+- Patients with history of OSA on CPAP require anesthesia consult prior to moderate sedation with RN. If pt is pending chemo initiation they are just scheduled with anesthesia to expedite their treatment rather than awaiting PPS visit. MAC is usually appropriate
+
+#### Spinal Angiogram
+- GETA, neuromonitoring
+- Supine
+- Post-op directly to Neuro ICU
+
+#### Cerebral angiogram +/- embolization
+- GETA, maintain paralysis
+- Supine
+- Administer heparin, check ACTs
+- PO aspirin and Plavix taken pre-op, if not, will place NGT and administer ASA/Brilinta intraop
+- If EVD in place, IR nurse will monitor
+Post-op directly to Neuro ICU
+
+#### Stroke
+::: warn
+Emergent case, time = brain!
+:::
+- GETA, consider TIVA
+- IR staff will be prepping while we are inducing
+- Femoral arterial access obtained, have Aline setup ready to transduce. Do not delay case start to place our own Aline
+- Post-op directly to Neuro ICU
+
+#### PE
+- MAC with very minimal sedation vs GETA, proceduralists VERY strongly prefer no intubation
+- With MAC, be very cautious to avoid hypoventilation
+
+### EQUIPMENTMost if not all of the equipment we have available downstairs (Level 1, Belmont, Cmac, glidescope, etc) is also updstairs, but it may take longer to get. If you need it, let your tech know ahead of time! If you run into an emergency, CALL FOR IT EARLY as it will take some time to get there.
 ::: important
 If your room does not have an anesthesia machine or cart when you get there in the morning, just call your tech for assistance.
 :::
@@ -107,77 +185,4 @@ machine drawer. To find where you will be working, there's a whiteboard in one o
 
 ## Case cookbook
 
-### Fistulogram
 
-MAC or GETA
-Supine, operative arm out
-Angioplasty is very painful
-Confirm last dialysis, K+
-
-### Embolization
-MAC or GETA
-supine
-For active bleeding, keep in mind longer transit times for labs and blood and prepare ahead!
-
-### Percutaneous gastrostomy
-MAC or GETA, light MAC strongly preferred for ALS patients
-supine
-NG will be placed for gastric insufflation
-Glucagon administered prior to gastrostomy, proceduralist will request dose at appropriate time
-Ultrasound and fluoroscopy guidance for percutaneous access to gastric lumen, then gastrostomy tube is placed, and NG tube removed
-
-### Kyphoplasty
-MAC or GETA
-Prone
-Bone cement used
-
-### Nephrostomy (PCN)
-MAC or GETA
-Prone
-
-### PTCA (Percutaneous Transhepatic Cholangiogram) and PTBD (Percutaneous Biliary Drain)
-Usually GETA, occasionally MAC
-Supine
-Procedure length dependent on whether bile duct is dilated
-High risk for intraop sepsis
-
-### TACE (Transarterial Chemoembolization) aka Y90
-GETA or light MAC (frequent breath holds needed)
-supine
-Chemotherapy is injected directly into the vessels supplying a liver tumor
-Decadron/Zofran usually ordered and administered pre-op, check the MAR, don’t double dose
-
-### TIPS
-GETA
-Supine, R IJ access, sometimes femoral as well
-For control or prevention of variceal hemorrhage and/or intractable ascites
-BRTO/CARTO sometimes done in conjunction with TIPS to reduce the risk of bleeding in gastric esophageal varices. Catheter is used to access the varices, coils are deployed to occlude flow at the distal end. A sclerosing agent is then injected into the varices to harden the tissue and prevent blood flow
-
-### Chest Port
-MAC
-These are usually done with RN administered moderate sedation
-Patients with history of OSA on CPAP require anesthesia consult prior to moderate sedation with RN. If pt is pending chemo initiation they are just scheduled with anesthesia to expedite their treatment rather than awaiting PPS visit. MAC is usually appropriate
-
-### Spinal Angiogram
-GETA, neuromonitoring
-Supine
-Post-op directly to Neuro ICU
-
-### Cerebral angiogram +/- embolization
-GETA, maintain paralysis
-Supine
-Administer heparin, check ACTs
-PO aspirin and Plavix taken pre-op, if not, will place NGT and administer ASA/Brilinta intraop
-If EVD in place, IR nurse will monitor
-Post-op directly to Neuro ICU
-
-### Stroke
-Emergent case, time = brain!
-GETA, consider TIVA
-IR staff will be prepping while we are inducing
-Femoral arterial access obtained, have Aline setup ready to transduce. Do not delay case start to place our own Aline
-Post-op directly to Neuro ICU
-
-### PE
-MAC with very minimal sedation vs GETA, proceduralists VERY strongly prefer no intubation
-With MAC, be very cautious to avoid hypoventilation
