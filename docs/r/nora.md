@@ -69,7 +69,7 @@ The culture in the HVC is quite different than the operating room. If you open a
 - Supine, R IJ access, sometimes femoral as well
 - For control or prevention of variceal hemorrhage and/or intractable ascites
 
-::: warn
+::: warning
 BRTO/CARTO sometimes done in conjunction with TIPS to reduce the risk of bleeding in gastric esophageal varices. Catheter is used to access the varices, coils are deployed to occlude flow at the distal end. A sclerosing agent is then injected into the varices to harden the tissue and prevent blood flow
 :::
 
@@ -92,7 +92,7 @@ BRTO/CARTO sometimes done in conjunction with TIPS to reduce the risk of bleedin
 Post-op directly to Neuro ICU
 
 #### Stroke
-::: warn
+::: warning
 Emergent case, time = brain!
 :::
 - GETA, consider TIVA
@@ -114,7 +114,7 @@ To find where you will be working, there's a whiteboard in one of the EP control
 > Room 2
 
 #### EP Lab #13
-::: warn
+::: warning
 This is an MRI room. Stereotaxis navigation system has a low Tesla magnet that is always on.
 Standard MRI: 1-3 Tesla
 Stereotaxis system in Navigate position: 0.7 Tesla at magnet cover
