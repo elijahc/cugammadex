@@ -104,3 +104,80 @@ machine drawer. To find where you will be working, there's a whiteboard in one o
 - Blood bank will also send things to the HVC work area tube station, #645.
 ### Post-procedure:
 - Non-ICU patients typically go to the HVC pre/post area (CPPR), treat this like PACU. All ICU patients will return to their ICU bed post-procedure. RNs will still bring them to the procedure room; however, you will transport them back.
+
+## Case cookbook
+
+### Fistulogram
+
+MAC or GETA
+Supine, operative arm out
+Angioplasty is very painful
+Confirm last dialysis, K+
+
+### Embolization
+MAC or GETA
+supine
+For active bleeding, keep in mind longer transit times for labs and blood and prepare ahead!
+
+### Percutaneous gastrostomy
+MAC or GETA, light MAC strongly preferred for ALS patients
+supine
+NG will be placed for gastric insufflation
+Glucagon administered prior to gastrostomy, proceduralist will request dose at appropriate time
+Ultrasound and fluoroscopy guidance for percutaneous access to gastric lumen, then gastrostomy tube is placed, and NG tube removed
+
+### Kyphoplasty
+MAC or GETA
+Prone
+Bone cement used
+
+### Nephrostomy (PCN)
+MAC or GETA
+Prone
+
+### PTCA (Percutaneous Transhepatic Cholangiogram) and PTBD (Percutaneous Biliary Drain)
+Usually GETA, occasionally MAC
+Supine
+Procedure length dependent on whether bile duct is dilated
+High risk for intraop sepsis
+
+### TACE (Transarterial Chemoembolization) aka Y90
+GETA or light MAC (frequent breath holds needed)
+supine
+Chemotherapy is injected directly into the vessels supplying a liver tumor
+Decadron/Zofran usually ordered and administered pre-op, check the MAR, don’t double dose
+
+### TIPS
+GETA
+Supine, R IJ access, sometimes femoral as well
+For control or prevention of variceal hemorrhage and/or intractable ascites
+BRTO/CARTO sometimes done in conjunction with TIPS to reduce the risk of bleeding in gastric esophageal varices. Catheter is used to access the varices, coils are deployed to occlude flow at the distal end. A sclerosing agent is then injected into the varices to harden the tissue and prevent blood flow
+
+### Chest Port
+MAC
+These are usually done with RN administered moderate sedation
+Patients with history of OSA on CPAP require anesthesia consult prior to moderate sedation with RN. If pt is pending chemo initiation they are just scheduled with anesthesia to expedite their treatment rather than awaiting PPS visit. MAC is usually appropriate
+
+### Spinal Angiogram
+GETA, neuromonitoring
+Supine
+Post-op directly to Neuro ICU
+
+### Cerebral angiogram +/- embolization
+GETA, maintain paralysis
+Supine
+Administer heparin, check ACTs
+PO aspirin and Plavix taken pre-op, if not, will place NGT and administer ASA/Brilinta intraop
+If EVD in place, IR nurse will monitor
+Post-op directly to Neuro ICU
+
+### Stroke
+Emergent case, time = brain!
+GETA, consider TIVA
+IR staff will be prepping while we are inducing
+Femoral arterial access obtained, have Aline setup ready to transduce. Do not delay case start to place our own Aline
+Post-op directly to Neuro ICU
+
+### PE
+MAC with very minimal sedation vs GETA, proceduralists VERY strongly prefer no intubation
+With MAC, be very cautious to avoid hypoventilation
