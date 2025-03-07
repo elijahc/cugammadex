@@ -62,9 +62,15 @@ GI is adjacent to the East ORs. There are a couple of suites as well as a small 
 ## HVC - IR/EP/Cath lab
 The HVC is on AIP2 3rd floor. There are typically four anesthesia teams in this area for a normal day. We may be involved with IR, neuro-IR, interventional cardiology, and EP cases. The CT-guided ablations are typically a HVC team, although these occur in the basement CT scanner. On occasion, we provide anesthesia for vascular surgery, pulmonology (bronchoscopies), MSK (kyphoplasties), and the ECHO cardiology service (sedation for TEE) as well.
 
+::: tip
+The HVC anes tech phone is 87967
+The tube station is #645
+:::
+
 The culture in the HVC is quite different than the operating room. If you open a dialogue with folks generally you will find that they are very willing to help, but don’t know what to do. Try to engage the procedure room nurses when you are inducing and emerging. This will help them both learn what you need and allow them to be helpful in the case of emergency. Write your phone number and your attending’s phone number on the white board in the room. While this is the typical practice in the general OR, it is especially important in HVC as your attending can be far away and the rooms are not arranged with the anesthesia team in mind. Unlike in the main OR, the nurses in the HVC usually do not have an up-to-date phone list. It will take time for them to find your attending’s phone number if you need them to call for help!
 
-### IR Cookbook by case
+### IR Cookbook
+> **Rooms 7, 8, 9, 10, 14, 16**
 
 #### Fistulogram
 - MAC or GETA
@@ -145,20 +151,97 @@ Emergent case, time = brain!
 - MAC with very minimal sedation vs GETA, proceduralists VERY strongly prefer no intubation
 - With MAC, be very cautious to avoid hypoventilation
 
-### EQUIPMENTMost if not all of the equipment we have available downstairs (Level 1, Belmont, Cmac, glidescope, etc) is also updstairs, but it may take longer to get. If you need it, let your tech know ahead of time! If you run into an emergency, CALL FOR IT EARLY as it will take some time to get there.
+### EP Cookbook
+> **rooms: #2, 11, 12, and 13**
+> EP #13 is technically an MRI room. It is a very low Tesla MRI, and the magnet is always on, behave accordingly. Most of your supplies will be in cabinets along the back wall rather than in the anesthesia
+machine drawer.
+To find where you will be working, there's a whiteboard in one of the EP control rooms that will say which doc/case is in which room
+
+#### Cardioversions
+> Room 2
+
+
+#### EP Lab #13
+::: warn
+This is an MRI room. Stereotaxis navigation system has a low Tesla magnet that is always on.
+Standard MRI: 1-3 Tesla
+Stereotaxis system in Navigate position: 0.7 Tesla at magnet cover
+Stereotaxis system in stowed position: 0.2 Tesla at magnet cover
+Stereotaxis system in stowed position: 0.0005 Tesla outside brown circle marked on floor
+:::
+
+- MRI screening forms for patients and staff are only needed if the navigation system will be used
+- MRI compatible machine and monitors are present in this room
+- Monitor in room and in control room must both be off Standby
+- Monitor has wireless EKG and pulse oximeter. Battery charging dock is in the control room.
+- Ventilator data (TV, PIP, PEEP) will not automatically transfer, needs to be manually entered
+- Temperature is usually monitored by EP and manually entered, but the anesthesia monitor does have temperature capability
+- Massimo pulse oximeter is present to use as a backup if monitor fails
+- Computer is NOT MRI compatible, if moved too close to the magnet it may shut off
+- The anesthesia cart and its contents including airway equipment are NOT MRI compatible. Keep the NON-MRI compatible equipment outside the lines indicated on the floor
+- Additional anesthesia supplies are in the rolling cart beside the anesthesia cart
+
+
+#### Implanted devices (pacemakers and ICDs)
+- MAC
+- sometimes a venogram on the operative side is indicated. We may need to place an IV for this
+
+
+#### Subcutaneous ICD
+- GETA
+- Very stimulating when leads are tunneled
+- VF will be induced to test device, external defibrillation if device fails (have bite block ready)
+
+
+#### Leadless pacemaker
+MAC, groin access
+
+#### Ablations
+- Headsets are worn during procedures when one or more team members are working in the control room. Headsets will be given to anesthesia providers and need to be worn as this is how the team will communicate information relevant to the case and patient care.
+-Communicate significant hemodynamic changes and initiation or escalation of pressor support with EP physicians. Pericardial effusion, cardiogenic shock, acute blood loss all must be considered with hemodynamic instability
+-Communicate regarding anesthetic plan prior to administration of any medications, all anesthetics can be antiarrhythmic. Some arrhythmias require awake mapping prior to administration of sedation
+-Limit fluids. Catheter ablation uses an irrigated catheter which can result in a large volume of fluid administered over the duration of a case (2-4+ liters). Lasix is often indicated for large positive fluid balance
+-EP RN will monitor hourly I+O
+-Heparin administered if working in left side of the heart. Dosing directed by proceduralist. Anesthesia administers boluses, EP RN maintains infusion and draws ACTs.
+-If heparin indicated, anesthesia places 2nd PIV. Typically IV on Left side is designated for EP RN use, IV on Right side for anesthesia use
+-Have soft bite block ready in case cardioversion or defibrillation is required
+
+#### AFib/pulmonary vein isolation (PVI)
+- GETA
+- Supine, femoral access
+- A-line only if patient condition warrants; 2nd PIV, heparinization indicated
+- No paralysis redosed after induction. Ablation occurs near a branch of the phrenic nerve, need to avoid thermal injury. They will identify the location of the nerve by pacing and observing for diaphragm response.
+- Place esophageal temperature probe. During ablation on the posterior wall, this is observed closely, and the room will determine who is responsible for monitoring. An increase of 0.1 degree Celsius needs to be reported. Increased esophageal temperature is associated with esophageal injury, including ulceration, perforation and atria-esophageal fistula
+- Protamine at case end. Our EP physicians prefer we administer a 1 mg test dose. After ensuring no reaction to the test dose the rest of the protamine can be given slowly, at a rate of 5mg/min
+
+#### SVT/AFlutter
+- MAC (GETA in some cases, depending on complexity of procedure and patient assessment)
+- Supine, femoral access
+- Most SVTs and typical AFlutter are ablated in the right atrium. Some areas can be painful during ablation
+- If left atrial access is needed, heparinization is indicated
+
+#### PVC
+- MAC (discuss with proceduralist before ANY meds administered, often they begin with mapping while fully awake)
+- Supine, femoral access
+  
+#### VT
+- GETA most common, MAC in some cases
+- Supine
+- Aline indicated
+- Endocardial approach is most common (femoral vein/artery access). Epicardial access is sometimes indicated (subxiphoid approach is typically used)
+- **Typical procedure**
+1. Voltage mapping in sinus rhythm
+2. Programmed stimulation with goal of arrhythmia induction
+3. Activation mapping in VT if hemodynamically tolerated (pressor support often indicated, communicate with EP physician) If hemodynamically unstable, VT can be terminated by internal pacing or external cardioversion
+4. Ablation, can be extensive
+5. End-point assessment (often performed multiple times before case end). Can include re-induction of arrhythmia, pacing various sites that have been ablated, repeat mapping.
+
+### EQUIPMENT
+Most if not all of the equipment we have available downstairs (Level 1, Belmont, Cmac, glidescope, etc) is also updstairs, but it may take longer to get. If you need it, let your tech know ahead of time! If you run into an emergency, CALL FOR IT EARLY as it will take some time to get there.
 ::: important
 If your room does not have an anesthesia machine or cart when you get there in the morning, just call your tech for assistance.
 :::
 
-### Finding stuff
-- EP rooms: #11, 12, 13. EP #13 is technically an MRI room. It is a very low Tesla MRI, and the magnet is always on, behave accordingly. Most of your supplies will be in cabinets along the back wall rather than in the anesthesia
-machine drawer. To find where you will be working, there's a whiteboard in one of the EP control rooms that will say which doc/case is in which room.
-	- IR cases are generally done in 6 or 15.
-	- Neuro IR cases are generally done in 7, 8 or 9.
-	- If you’re not sure which room you’ll be in, you can just ask at the main desk in the HVC work area in the morning (HINT: the HVC number listed on the OR board does not correlate to the room number).
-	- The HVC tech phone is 87967.
-### Preop
--  The HVC RN will bring the patient back to the room once they confirm that both the anesthesia and procedure team consents have been done. Often the team does not want pre-medication prior to timeout. Communicate with the in-room RN if you’re not ready for the patient.
 ### Medications:
 - There is a pyxis in Rm 3.2319.; in-between the EP hallway and the hallway to the IR/Cath control room. The door code to 3.2319 is 3231#. If you forget what the code is, just remember is the first 4 numbers of the room number.
 - You should plan to get most of the medications and boxes you need from the main OR pharmacy and pyxis.
@@ -176,13 +259,3 @@ machine drawer. To find where you will be working, there's a whiteboard in one o
 - The IP addresses for the data ports on the booms in the HVC expire if not used after 30 days. This means that if you are doing an anesthetic in a room that we don’t use often (like cath lab 5 or cath lab 6) there will not be internet access without a call to the computer help desk. This is primarily an issue for interventional cardiology. IF you see that you are scheduled to do a case in an infrequently used room, such as cath lab 5 or cath lab 6, please reach out ahead of time to the nurses in that area and ask that the data port be issued a new IP address. Interventional Cardiology will try to be pro-active with this, but please do your part by helping folks remember or make the call yourself.
 ### Supplies:
 - The anesthesia equipment room is next to procedure room 1, it is room #3365 (the code to get in is the room number). It should have things like a CMAC, level 1, etc. There are other random anesthesia goodies on a shelf in the back left corner (circuits, tubes, etc.…).
-### Positioning:
-- Currently the HVC does not have equipment for prone positioning. Some providers make do with blanket rolls if the case is going to be short. Some providers borrow gel roles from the main OR. The HVC is in the process of finding radiolucent gel rolls to purchase. We DO have yellow foam! Some IR beds are equipped with a pull out at the head that allows some neutralization of the C-spine when the patient is in a prone view, as well as a place to rest the arms in a superman position.
-### Blood:
-- Blood bank will also send things to the HVC work area tube station, #645.
-### Post-procedure:
-- Non-ICU patients typically go to the HVC pre/post area (CPPR), treat this like PACU. All ICU patients will return to their ICU bed post-procedure. RNs will still bring them to the procedure room; however, you will transport them back.
-
-## Case cookbook
-
-
