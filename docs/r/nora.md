@@ -5,7 +5,7 @@ outline: [2,4]
 
 # Non-OR Anesthesia (NORA)
 ## Overview
-More and more, anesthesia providers are asked to care for patients outside of traditional OR settings. This Non-Operating Room Anesthesia (NORA) rotation exposes you to these environments where anesthesia is provided to complex patients (GI, CV, IR, MRI, CT). In the past, the proceduralist provided the sedation, but has become not always adequate or safe as the complexity and acuity of patients continues to increase. As more advanced and complex procedures are introduced with ever-expanding indications and sicker patients, the need for Anesthesia services increases. Patients who previously were considered poor candidates for high-risk invasive procedures are now receiving these equally high-risk but minimally invasive procedures. Coordinating patient care in these settings is a challenge, not only because of the type of procedures and patient population, but also due to working with different non-OR team members in an unfamiliar environment, often lacking equipment anesthesia providers are accustomed to in the OR.
+More and more, anesthesia providers are asked to care for patients outside of traditional OR settings. This Non-Operating Room Anesthesia (NORA) rotation exposes you to these environments where anesthesia is provided to complex patients (GI, EP, IR, MRI, CT). In the past, the proceduralist provided the sedation, but has become not always adequate or safe as the complexity and acuity of patients continues to increase. As more advanced and complex procedures are introduced with ever-expanding indications and sicker patients, the need for Anesthesia services increases. Patients who previously were considered poor candidates for high-risk invasive procedures are now receiving these equally high-risk but minimally invasive procedures. Coordinating patient care in these settings is a challenge, not only because of the type of procedures and patient population, but also due to working with different non-OR team members in an unfamiliar environment, often lacking equipment anesthesia providers are accustomed to in the OR.
 
 Cases may or may not start strictly on-time because of the coordination of other providers and specific equipment. As always, try to be available and ready for when they do decide to start the case. One dedicated anesthesia tech covers the NORA cases; however, they are typically also turning over rooms in the main OR. If you need special equipment, collect it for your first case, or notify them early on. Communication is incredibly important as you will be engaging with different RNs and physicians. Ask questions and make your needs known.
 For your daily assignment, please refer to the daily schedule email sent out. Sometimes, you will have to look past the cover sheet into the actual room assignments. Occasionally, your room assignment with be listed on the preprocedure tab in the top right along with the name of the procedure being done.
@@ -16,11 +16,16 @@ For this chapter, locations will be covered one by one given the distinct differ
 The HVC is on AIP2 3rd floor. There are typically four anesthesia teams in this area for a normal day. We may be involved with IR, neuro-IR, interventional cardiology, and EP cases. The CT-guided ablations are typically a HVC team, although these occur in the basement CT scanner. On occasion, we provide anesthesia for vascular surgery, pulmonology (bronchoscopies), MSK (kyphoplasties), and the ECHO cardiology service (sedation for TEE) as well.
 
 ::: tip
-The HVC anes tech phone is 87967
-The tube station is #645
+- The HVC anes tech phone is **87967**
+- The tube station is #**645**
 :::
 
 The culture in the HVC is quite different than the operating room. If you open a dialogue with folks generally you will find that they are very willing to help, but don’t know what to do. Try to engage the procedure room nurses when you are inducing and emerging. This will help them both learn what you need and allow them to be helpful in the case of emergency. Write your phone number and your attending’s phone number on the white board in the room. While this is the typical practice in the general OR, it is especially important in HVC as your attending can be far away and the rooms are not arranged with the anesthesia team in mind. Unlike in the main OR, the nurses in the HVC usually do not have an up-to-date phone list. It will take time for them to find your attending’s phone number if you need them to call for help!
+
+::: important
+If your room does not have an anesthesia machine or cart when you get there in the morning, just call your tech (**x8-7967**) for assistance.
+:::
+If you run into an emergency, **CALL FOR EQUIPMNET EARLY** as it will take some time to get there.
 
 ### IR Cookbook
 > **Rooms 7, 8, 9, 10, 14, 16**
@@ -106,9 +111,6 @@ Emergent case, time = brain!
 
 ### EP Cookbook
 > **rooms: #2, 11, 12, and 13**
-> EP #13 is technically an MRI room. It is a very low Tesla MRI, and the magnet is always on, behave accordingly. Most of your supplies will be in cabinets along the back wall rather than in the anesthesia
-machine drawer.
-To find where you will be working, there's a whiteboard in one of the EP control rooms that will say which doc/case is in which room
 
 #### Cardioversions
 > Room 2
@@ -186,12 +188,6 @@ MAC, groin access
 4. Ablation, can be extensive
 5. End-point assessment (often performed multiple times before case end). Can include re-induction of arrhythmia, pacing various sites that have been ablated, repeat mapping.
 
-### EQUIPMENT
-Most if not all of the equipment we have available downstairs (Level 1, Belmont, Cmac, glidescope, etc) is also updstairs, but it may take longer to get. If you need it, let your tech know ahead of time! If you run into an emergency, CALL FOR IT EARLY as it will take some time to get there.
-::: important
-If your room does not have an anesthesia machine or cart when you get there in the morning, just call your tech for assistance.
-:::
-
 ### Medications:
 - There is a pyxis in Rm 3.2319.; in-between the EP hallway and the hallway to the IR/Cath control room. The door code to 3.2319 is 3231#. If you forget what the code is, just remember is the first 4 numbers of the room number.
 - You should plan to get most of the medications and boxes you need from the main OR pharmacy and pyxis.
@@ -251,8 +247,8 @@ As above, call PACU at 86203 to let them know to expect you. Depending on the pr
 
 ## GI
 GI is adjacent to the East ORs. There are a couple of suites as well as a small pre/post area between the GI suites and the East OR.
-- Medications:
-	- The AOP pharmacy covers this area, their phone number is 81391. Similar to East OR, in the morning the pharmacy will have med bags pre-prepared for all your booked cases. You can pick up some or all bags in the morning, just remember that you can expect very fast room turnovers (~20 min), so find a system to keep up with administering and wasting medications for the correct patient, including when you get a break, or your attending gets something out of the top drawer.
+**Medications:**
+- The AOP pharmacy covers this area, their phone number is 81391. Similar to East OR, in the morning the pharmacy will have med bags pre-prepared for all your booked cases. You can pick up some or all bags in the morning, just remember that you can expect very fast room turnovers (~20 min), so find a system to keep up with administering and wasting medications for the correct patient, including when you get a break, or your attending gets something out of the top drawer.
 - Some cases are simply done on the patient’s gurney while others will be done on a procedure table. The anesthesia tech will turn over your room, their number is on the anesthesia machine.
 - As with some subspecialties, there are some minor differences in the anesthesia carts here (Unasyn instead of Ancef, glucagon in top drawer, albumin 500cc in bottom drawer).
 - In general, you can anticipate to performing GETAs for: ERCPs and small bowel endoscopies. You will typically perform MAC for EGDs, colonoscopy, and some stent removals, however, as always, ultimately this depends on the pertinent details for that case or patient.
