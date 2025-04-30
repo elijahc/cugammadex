@@ -17,3 +17,5 @@ This is a port of previous short URL for common resources
 [preop doc](https://olucdenver-my.sharepoint.com/:f:/g/personal/elijah_christensen_cuanschutz_edu/EnJo6MXTNAZMgWwzHYjbnncBtD68wt_tRUnLWaEP2seP-g?e=uVSOYN)
 
 [UCH TEG Manager](https://tegmgr-s-prod.uch.ad.pvt/Account/Login?returnUrl=%2F)
+
+[hackmd.io anes-rx](https://hackmd.io/@elijahc/anes-rx/)
