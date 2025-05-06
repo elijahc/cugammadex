@@ -27,18 +27,16 @@ Labor can be prolonged and painful, the most flexible option for pain control du
   - Can use Bupi 0.25% may be used in advanced labor but will cause motor block and needs attending approval
 
 ## PCEA settings
-- Stock concentration is **Bupi 0.08%** + **Fent 2mcg/mL**
+- Stock concentration is **Ropi 0.1%** + **Fent 2mcg/mL**
 
 |                          |    **Basal**   | **PCEA bolus** |
 |-------------------------:|:--------------:|:--------------:|
 |       **"walking" PCEA** |    5cc/hr CONT |         _None_ |
-|        **Standard PCEA** | 5cc/30min PIEB |    5cc q 10min |
+|        **Standard PCEA** | 10cc/45min PIEB|    5cc q 10min |
 | **Intrathecal catheter** |     2-3cc CONT |         _None_ |
 
 - remember: LA requirements reduced by 30% in pregnancy
 - assess frequently for motor block
-- Consider incr PIEB dosing if inadequate level despite button
-  - 6cc/30min or 10cc/45min
 
 ## Safety Tips
 - Motor block is intrathecal catheter until proven otherwise
