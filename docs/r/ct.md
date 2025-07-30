@@ -206,4 +206,4 @@ Shoot for 3-5cc/kg IBW for tidal volumes with one-lung ventilation. I usually do
 - [Cardiac Anesthesiology Made Incredibly Simple](https://www.cardiacengineering.com/cardiaca.htm)
 - [CT Resident Modules](https://olucdenver.sharepoint.com/sites/Anesthesiology/Shared%20Documents/Forms/AllItems.aspx.aspx?FolderCTID=0x01200043094399E131D24E92B2DEFFBE59067D&id=%2Fsites%2FAnesthesiology%2FShared+Documents%2FOLD+Manuals+%26+Protocols%2FResident+Training+Manuals%2FCardiothoracic%2FUpdated+Curriculum%2FCT+Resident+Modules)
 - [Anesthetic considerations in robotic mitral valve surgery](https://pmc.ncbi.nlm.nih.gov/articles/PMC5293623/)
-- [CTICU Handoff]([url](https://olucdenver-my.sharepoint.com/:w:/g/personal/connor_lester_cuanschutz_edu/EcrUS-uZDJFBjeTxvZkHQDgB455FxVT70tj9GXFXaUIWEQ?e=85zdAf))
+- [CTICU Handoff](https://olucdenver-my.sharepoint.com/:w:/g/personal/connor_lester_cuanschutz_edu/EcrUS-uZDJFBjeTxvZkHQDgB455FxVT70tj9GXFXaUIWEQ?e=85zdAf)
