@@ -3,6 +3,7 @@
 # Rotations
 
 ## General OR rotations
+- [RMR VA](./va.md)
 - [University of Colorado (UCH)](./uch.md) :warning:
 - [Denver Health (DH)](./dh.md) :warning:
   
@@ -18,5 +19,5 @@
 - [STICU](./sticu.md) :warning:
 - [CTICU](./cticu.md) :warning:
 
-- [APS](./aps.md) :warning:
+- [Acute Pain Service](./aps.md) :warning:
 - [Non-OR Anesthesia (NORA)](./nora.md)
