@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: Rotations
       link: /r/
+    - theme: brand
+      text: Rx Reference
+      link: https://hackmd.io/@elijahc/anes-rx
     - theme: alt
       text: QGenda glossary
       link: /supplemental/qgenda-glossary
