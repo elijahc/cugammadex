@@ -1,6 +1,9 @@
 
 
-# Rotations
+# Rotation Guides
+
+- [Acute Pain Service](./aps.md) :warning:
+- [Non-OR Anesthesia (NORA)](./nora.md)
 
 ## General OR rotations
 - [RMR VA](./va.md)
@@ -18,6 +21,3 @@
 ## ICU Rotations
 - [STICU](./sticu.md) :warning:
 - [CTICU](./cticu.md) :warning:
-
-- [Acute Pain Service](./aps.md) :warning:
-- [Non-OR Anesthesia (NORA)](./nora.md)
