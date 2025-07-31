@@ -83,7 +83,7 @@ Seizures may occur during awake craniotomies, so have a plan A, B, C, D for how 
 
  
 
-### Pituitary Tumors and Other Sellar Pathologies (from an email from Dr. Clavijo) 
+### Pituitary Tumors and Other Sellar Pathologies
 
 Patient might be scheduled for a microscopic or endoscopic endonasal transsphenoidal approach. Both procedures require endotracheal intubation.   
 
