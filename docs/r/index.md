@@ -3,7 +3,7 @@
 # Rotations
 
 ## General OR rotations
-- [UCH](./uch.md) :warning:
+- [University of Colorado (UCH)](./uch.md) :warning:
 - [Denver Health (DH)](./dh.md) :warning:
   
 ## Subspecialty OR rotations
@@ -17,3 +17,6 @@
 ## ICU Rotations
 - [STICU](./sticu.md) :warning:
 - [CTICU](./cticu.md) :warning:
+
+- [APS](./aps.md) :warning:
+- [Non-OR Anesthesia (NORA)](./nora.md)
