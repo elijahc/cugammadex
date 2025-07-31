@@ -6,11 +6,7 @@ outline: [2,4]
 
 # Neuroanesthesia
 
-**Neuro Attendings:** Claudia Clavijo MD, Julio Montejano MD, Tony Oliva MD/PhD, Ben Scott MD, Colby Simmons DO, Scott Vogel DO 
-
-**Neuro Protocols**
-- [OneDrive](https://olucdenver-my.sharepoint.com/:f:/g/personal/elijah_christensen_cuanschutz_edu/Eq-Kue-gjxtMspUvzz99qvkB0fhInw_mQ3q8L_a5NMUoQg?e=wImL8h)
-- Epic >> Preop >> Manuals & FAQ Tab >> Neuroanesthesia Protocols
+**Neuro Attendings:** _Claudia Clavijo MD, Julio Montejano MD, Tony Oliva MD/PhD, Ben Scott MD, Colby Simmons DO, Scott Vogel DO_ 
 
 The neuroanesthesia rotation may be familiar to you by the time that you begin your actual rotation. It is common to provide anesthesia for patients undergoing craniotomies, spines or emergent IR stroke cases while on call or general OR days. This rotation allows you to see a wide variety of procedures and the considerations that come with each of them. 
 
@@ -124,6 +120,23 @@ Know baseline neurologic deficits and document these deficits in the pre-op eval
 
 Take a peek at the neuromonitoring and ask questions. This might help solidify concepts that are typically tested.  
 
+## dotphrases
+::: info .neuroplan
+general neuroplan
+:::
+
+::: info .craniwithnm
+crani w/ neuromonitorying
+:::
+
+::: info .craninmbplan
+crani w/o neuromonitorying
+:::
+
+::: info .craniawake
+awake crani
+:::
+
 ## Resources
 
 - Cottrell and Young: https://www.clinicalkey.com/#!/browse/book/3-s2.0-C20130051870 
@@ -132,6 +145,10 @@ Take a peek at the neuromonitoring and ask questions. This might help solidify c
 Other options: Barash, Newfield, Faust 
 
 Library e-books link to find these books if the above links are broken: https://library.cuanschutz.edu/ebooks (this link is broken) 
+
+**Neuro Protocols**
+- [OneDrive](https://olucdenver-my.sharepoint.com/:f:/g/personal/elijah_christensen_cuanschutz_edu/Eq-Kue-gjxtMspUvzz99qvkB0fhInw_mQ3q8L_a5NMUoQg?e=wImL8h)
+- Epic >> Preop >> Manuals & FAQ Tab >> Neuroanesthesia Protocols
 
 **REQUIRED READING**
 - Week 1: CNS Anatomy, Physiology and Pharmacology
