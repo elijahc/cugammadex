@@ -18,6 +18,7 @@ The cardiothoracic month can be one of the more grueling rotations for residents
 > New as of 12/2024 there will be required education modules where the expectation is to complete 2 for every month on CT
 > You can search for these modules on cupropofol.com or (maybe) using this [direct link](https://olucdenver.sharepoint.com/sites/Anesthesiology/Shared%20Documents/Forms/AllItems.aspx.aspx?FolderCTID=0x01200043094399E131D24E92B2DEFFBE59067D&id=%2Fsites%2FAnesthesiology%2FShared+Documents%2FOLD+Manuals+%26+Protocols%2FResident+Training+Manuals%2FCardiothoracic%2FUpdated+Curriculum%2FCT+Resident+Modules) and links to the quizzes for each module should be sent out in your CT welcome email.
 
+
 ## Rotation Breakdown
 - Residents are assigned CT1 CT6 shifts throughout the week on a rotating schedule and can be assigned
 to the general OR pool if there are not enough cardiac and/or thoracic cases.
@@ -201,6 +202,13 @@ These are typically straightforward cases, many are robotic. Almost all will get
 > Ask the tech's for a bronch tower w/ CMAC
 
 Shoot for 3-5cc/kg IBW for tidal volumes with one-lung ventilation. I usually do this using PSV instead of PCV-VG
+
+## dotphrases
+::: details .ctplan
+:::
+
+::: details .tavrplan
+:::
 
 ## Resources
 - [Cardiac Anesthesiology Made Incredibly Simple](https://www.cardiacengineering.com/cardiaca.htm)
