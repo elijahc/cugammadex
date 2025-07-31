@@ -22,6 +22,9 @@ export default defineConfig({
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     logo: '/greek-gamma.svg',
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/elijahc/cugammadex' }
+    ],
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Rotations',
