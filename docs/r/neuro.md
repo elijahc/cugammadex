@@ -3,30 +3,25 @@ title: Neuroanesthesia
 tags: rotation-guide
 outline: [2,4]
 ---
-> [!WARNING]
-> Currently a **Draft**; still needs reformatting
 
 # Neuroanesthesia
 
 **Neuro Attendings:** Claudia Clavijo MD, Julio Montejano MD, Tony Oliva MD/PhD, Ben Scott MD, Colby Simmons DO, Scott Vogel DO 
 
-**Neuro Protocols:** Epic >> Preop >> Manuals & FAQ Tab >> Neuroanesthesia Protocols 
+**Neuro Protocols**
+- [OneDrive](https://olucdenver-my.sharepoint.com/:f:/g/personal/elijah_christensen_cuanschutz_edu/Eq-Kue-gjxtMspUvzz99qvkB0fhInw_mQ3q8L_a5NMUoQg?e=wImL8h)
+- Epic >> Preop >> Manuals & FAQ Tab >> Neuroanesthesia Protocols
 
 The neuroanesthesia rotation may be familiar to you by the time that you begin your actual rotation. It is common to provide anesthesia for patients undergoing craniotomies, spines or emergent IR stroke cases while on call or general OR days. This rotation allows you to see a wide variety of procedures and the considerations that come with each of them. 
 
 Before starting your rotation, you will receive an orientation email from the neuroanesthesia team. Below is an education schedule from the orientation email if you want to get a head start: 
 
-Week 1: CNS Anatomy, Physiology and Pharmacology 
-
-Week 2: Neurosurgical Anesthesia 
-
-Week 3: CNS Monitoring 
-
-Week 4: Head trauma, Supratentorial tumors, Posterior fossa 
-
-Week 5: Intracranial aneurysms, Cerebral ischemia, Neuroendocrine tumors 
-
-Week 6: Cerebral protection, Epilepsy and epilepsy surgery, Interventional neuroradiology 
+- Week 1: CNS Anatomy, Physiology and Pharmacology 
+- Week 2: Neurosurgical Anesthesia 
+- Week 3: CNS Monitoring 
+- Week 4: Head trauma, Supratentorial tumors, Posterior fossa 
+- Week 5: Intracranial aneurysms, Cerebral ischemia, Neuroendocrine tumors 
+- Week 6: Cerebral protection, Epilepsy and epilepsy surgery, Interventional neuroradiology 
 
 ## EVD
 In anesthesia, we often do not manage EVDs daily, however many of our patients coming to the operating room for NSGY procedures will have EVDs that we will need to know how to manage upon transport as well as in the operating room. 
@@ -36,11 +31,7 @@ In anesthesia, we often do not manage EVDs daily, however many of our patients c
 
 If you don't feel comfortable setting up an EVD or have questions, call a neuroanesthesia attending, contact a neurosurgery resident or call the neuro ICU charge for help.  
 
-Neuro Resident: 303-266-2353 
-
-Neuro ICU Charge: 83590 
-
- 
+Neuro ICU Charge: x83590 
 
 EVD protocol can be found under the neuroanesthesia protocols under “EVD Management.” 
 
@@ -141,4 +132,20 @@ Take a peek at the neuromonitoring and ask questions. This might help solidify c
 Other options: Barash, Newfield, Faust 
 
 Library e-books link to find these books if the above links are broken: https://library.cuanschutz.edu/ebooks (this link is broken) 
- 
+
+**REQUIRED READING**
+- Week 1: CNS Anatomy, Physiology and Pharmacology
+  - Faust’s Anesthesiology Review, Fourth Ed., Ch 55-57, 131, 132
+  - Clinical Anesthesiology, Barash et al, Seventh Ed, Pg 996-1000
+  - Miller’s Anesthesia, Miller et al, Eighth Ed, Pages 387-419
+- Week 2: Neurosurgical Anesthesia
+  - Faust’s Anesthesiology Review, Fourth Ed., Ch 133-140
+  - Clinical Anesthesiology, Barash et al, Seventh Ed, Pg 1009-24
+  - Miller’s Anesthesia, Miller et al, Eighth Ed, Pg 2158-2196
+- Week 3: CNS Monitoring
+  - Clinical Anesthesiology, Barash et al, Seventh Ed, Pages 1000-1009
+  - Miller’s Anesthesia, Miller et al, Eighth Ed, Pg 1487-1521
+- Week 4: Controversies in Neuroanesthesia
+  - Processed EEG
+  - BP management
+  - TIVA vs IA - Stroke Alert GA vs MAC - Consent in AMS patient
