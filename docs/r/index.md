@@ -3,17 +3,17 @@
 # Rotations
 
 ## General OR rotations
-- [UCH](./uch.md)
-- [Denver Health (DH)](./dh.md)
+- [UCH](./uch.md) :warning:
+- [Denver Health (DH)](./dh.md) :warning:
   
 ## Subspecialty OR rotations
 - [Obstetric Anesthesia](./ob.md)
 - [Transplant Anesthesia](./txp.md)
 - [Cardiothoracic Anesthesia](./ct.md)
   - [CT Att Prefs](../ref/ct-att.md)
-- [Neuroanesthesia](./neuro.md)
-- [Childrens Hospital](./chco.md)
+- [Neuroanesthesia](./neuro.md) :warning:
+- [Childrens Hospital](./chco.md) :warning:
 
 ## ICU Rotations
-- [STICU](./sticu.md)
-- [CTICU](./cticu.md)
+- [STICU](./sticu.md) :warning:
+- [CTICU](./cticu.md) :warning:
