@@ -6,15 +6,15 @@ outline: [2,4]
 
 # STICU
 
-Most Recently Edited by Sean Stevens MD, June 2025  
+Most Recently updated June 2025 by _Sean Stevens MD_  
 
-Anesthesia Attendings: Jason Brainard, MD; Naveen Kukreja, MD; Ben Scott, MD; Josh Douin, MD; Jacob Basak, MD 
+**Anesthesia Attendings:** Jason Brainard, MD; Naveen Kukreja, MD; Ben Scott, MD; Josh Douin, MD; Jacob Basak, MD 
  
-EM/Critical Care Attendings: Julie Winkle, MD  
+**EM/Critical Care Attendings:** Julie Winkle, MD  
 
-Surgical ICU Attendings: Clay Burlew, MD; Mitch Cohen, MD; Michael Cripps, MD; Joanna Etra, MD; Kristy Hawley, MD; Juan Pablo Idrovo, MD; Whitney Jenson, MD; Aaron Marshall, MD; Robert McIntyre, MD: Lauren Steward, MD; Catherine Velopulos, MD; Frank Wright, MD;  
+**Surgical ICU Attendings:** Clay Burlew, MD; Mitch Cohen, MD; Michael Cripps, MD; Joanna Etra, MD; Kristy Hawley, MD; Juan Pablo Idrovo, MD; Whitney Jenson, MD; Aaron Marshall, MD; Robert McIntyre, MD: Lauren Steward, MD; Catherine Velopulos, MD; Frank Wright, MD;  
  
-STICU APPs: Zach Asher PA,  Marcus Barlow PA, Kimberly Berry NP, Lauren Fukuhara PA, Gregory Gleckler PA, Madison Hexter PA, Drea Horne PA, Frankie Macri PA, Caroline Kirby PA, Heather Stuart PA, Annabelle Thomas NP, Stephanie Victoria PA 
+**STICU APPs:** Zach Asher PA,  Marcus Barlow PA, Kimberly Berry NP, Lauren Fukuhara PA, Gregory Gleckler PA, Madison Hexter PA, Drea Horne PA, Frankie Macri PA, Caroline Kirby PA, Heather Stuart PA, Annabelle Thomas NP, Stephanie Victoria PA 
 
   
 
@@ -36,7 +36,8 @@ Late – On weekdays, come in at 6 am like a rounding provider. No change to day
 
 Call- Weekdays you come in at 3pm. You will receive sign out or do a brief walk/work rounds to find out what happened during the day.  Drs. Scott & Brainard, in particular, prefer walk rounds. Once sign-out is complete, the other resident and APP(s) will leave for the day.  At that point, you will manage the team overnight. Usually, a fellow will be available (from home) throughout the night and will be your point of contact. If a fellow is not scheduled to work that night, you will contact your attending. Some attendings will want you to call around 7-8pm to run the list. A moonlighter will come in at 6:30 pm, who takes half of the patients and will split admissions. After everything has settled, you will do brief walking rounds with the Moonlighter + Charge nurse at 10pm to see if the bedside RN needs anything or has any questions. 
 
-PRO-TIP – if you do these night rounds well, your overnight calls/messages will be drastically reduced. 
+> [!TIP]
+> **PRO-TIP** – if you do these night rounds well, your overnight calls/messages will be drastically reduced. 
 
 Weekends/Holiday - come in and round like a normal day at 6am, stay all day and overnight (24 hours + 4 hours as needed to finish patient care tasks). Round with the charge RN around 10pm. Sign-out to team coming on at 6am. 
 
@@ -84,19 +85,24 @@ Monday, Tuesday, Wednesday, and Friday there is lecture from 12-12:30 about vari
 
 When a patient is admitted to STICU, the primary team writes the initial admission orders. They also should talk to you either in person or over the phone to give you report (reason for admitting, OR events, plans).    
 
-PRO-TIP – Key items to clarify with primary team in admission include diet, anticoagulation / antibiotic plans, return to OR plans and any vital sign parameters (SBP, MAP, ICP, etc.) that will need to be closely monitored 
+> [!TIP]
+> PRO-TIP – Key items to clarify with primary team in admission include diet, anticoagulation / antibiotic plans, return to OR plans and any vital sign parameters (SBP, MAP, ICP, etc.) that will need to be closely monitored 
 
 Patients will usually come directly from the OR to ICU accompanied by an OR RN, anesthesia provider, and member of the surgical team. On occasion, they go to PACU because ICU was not initially intended or there are no ICU beds available. In these instances, make sure to speak with the anesthesia/surgical teams (they should reach out to you, but do not always do so) and go down to PACU and evaluate the patient to make sure they do not have any problems that require immediate attention.   
 
 Make sure you evaluate the patient, do a focused physical exam, & review EPIC for pertinent info (brief medical hx, meds, labs).  The OR Anesthesia team should also contact you to give you report (OR course, airway, I/O’s, drugs given, drips, IV access, invasive monitors, etc.).    
 
-You will write a STICU Accept Note (progress note) in EPIC. (note template is .sticuprog24) Then order/follow up on labs/CXRs and manage critical care issues that arise including placing any invasive monitors if needed.  Note: Some teams are VERY hands on (transplant), and some don’t care what you do (ENT, ortho).  
+You will write a STICU Accept Note (progress note) in EPIC. (note template is .sticuprog24) Then order/follow up on labs/CXRs and manage critical care issues that arise including placing any invasive monitors if needed.
+
+> [!INFO]
+> Note: Some teams are VERY hands on (transplant), and some don’t care what you do (ENT, ortho).  
 
 In general, discuss all major management decisions with the primary surgical service (during the day); not for their permission, but just to maintain good communication among the team members.   
 
 For liver transplant patients, run just about every management decision (no matter how small) by the transplant fellow. You should also be expecting to communicate with them every hour (phone call or EPIC message depending on their preference) with new labs and drain output immediately after they come from the OR.  You will quickly get a feel for how hands-on vs. off they will be for each individual patient.    
 
-PRO-TIP – For all new patients, know and document the exact location of every drain and what portion of the body it is draining (i.e., Drain #2 liver bed, next to caval anastomosis), neuro exam for vascular or trauma patients, pulse exam, etc. Surgical attendings will want you to be very specific.  
+> [!TIP]
+> **PRO-TIP** – For all new patients, know and document the exact location of every drain and what portion of the body it is draining (i.e., Drain #2 liver bed, next to caval anastomosis), neuro exam for vascular or trauma patients, pulse exam, etc. Surgical attendings will want you to be very specific.  
 
    
 
@@ -107,52 +113,31 @@ How to modify your EPIC for ICU use: 
 Use the EPIC button on the top left to “change context” to “zz intensivist” from “zz anesthesia.” to “zz intensivist.” 
 
 From the “patient summary” button use the wrench function to add parameters to your toolbar. (Names may change slightly from year to year)  
-
-Comprehensive flow sheet (or “adult comprehensive” or “comp”)  
-
-Pain management (or “pain”)  
-
-Microbiology (or “micro”)  
-
-MAR (or “meds history”)  
-
-Fever (or “fever”)  
-
-Intake/Output 
-
-LDA (or “lines/drains/airway”) 
-
-Blood Transfusion (or “transfusion”)  
-
-Anticoagulation  
-
-Alcohol Withdrawal Monitoring (or “ETOH”) 
+- Comprehensive flow sheet (or “adult comprehensive” or “comp”)  
+- Pain management (or “pain”)
+- Microbiology (or “micro”)
+- MAR (or “meds history”)
+- Fever (or “fever”)
+- Intake/Output
+- LDA (or “lines/drains/airway”)
+- Blood Transfusion (or “transfusion”)
+- Anticoagulation
+- Alcohol Withdrawal Monitoring (or “ETOH”) 
 
   
 
 Add order sets to your favorite list by right clicking on “order sets” Useful ones are:  
-
-UCH Adult IV insulin Infusion  
-
-UCH Subcutaneous Insulin for TPN or Tube Feeding  
-
-UCHS Subcutaneous Insulin: Basal/Bolus for PO, NPO, or bolus TF  
-
-UCH Pain/Agitation Management for mechanically ventilated patient in the ICU  
-
-UCH Blood Administration: Inpatient and Emergency Department  
-
-UCH Heparin Continuous Infusion CTICU/STICU Anticoagulation  
-
-UCH Intravenous Patient Controlled Analgesia (IV PCA)  
-
-UCH Enteral Tube Feeding  
-
-UCH ICU Electrolyte Replacement Guideline  
-
-UCH End-of-Life Care for the Intensive Care Patient  
-
-UCH Neuromuscular Blockade – Adult ICU  
+- UCH Adult IV insulin Infusion
+- UCH Subcutaneous Insulin for TPN or Tube Feeding
+- UCHS Subcutaneous Insulin: Basal/Bolus for PO, NPO, or bolus TF  
+- UCH Pain/Agitation Management for mechanically ventilated patient in the ICU  
+- UCH Blood Administration: Inpatient and Emergency Department  
+- UCH Heparin Continuous Infusion CTICU/STICU Anticoagulation  
+- UCH Intravenous Patient Controlled Analgesia (IV PCA)  
+- UCH Enteral Tube Feeding  
+- UCH ICU Electrolyte Replacement Guideline  
+- UCH End-of-Life Care for the Intensive Care Patient  
+- UCH Neuromuscular Blockade – Adult ICU  
 
   
 
@@ -167,8 +152,8 @@ Add & Remove Patients from the STICU list as they are admitted and discharged.�
 (Remember to also add the patient to the SICU Sign-Out Report)  
 
   
-
-PRO-TIP: Do not copy and paste from EPIC to the signout. This messes up the font. It is acceptable to copy and paste from the signout to EPIC.    
+> [!TIP]
+> PRO-TIP: Do not copy and paste from EPIC to the signout. This messes up the font. It is acceptable to copy and paste from the signout to EPIC.    
 
 To add templates for STICU notes:  
 
