@@ -5,7 +5,7 @@ outline: [2,4]
 ---
 
 # Acute Pain Service (APS)
-Most Recently Edited by Alex Linse MD, June 2025  
+Most Recently Updated by Alex Linse MD, June 2025  
 
 > [!WARNING]
 > Currently a **Draft**; still needs reformatting
