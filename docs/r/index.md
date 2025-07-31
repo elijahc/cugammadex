@@ -19,5 +19,5 @@
 - [Childrens Hospital](./chco.md) :warning:
 
 ## ICU Rotations
-- [STICU](./sticu.md) :warning:
+- [STICU](./sticu.md)
 - [CTICU](./cticu.md) :warning:
