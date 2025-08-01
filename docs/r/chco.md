@@ -15,33 +15,29 @@ outline: [2,4]
 ## Primary Contacts 
 
 **Residency Rotation Site Director**
-Carolyn Foley, MD 
-carolyn.foley@childrenscolorado.org 
-Cell: +1 (541) 554-2176 
+- Carolyn Foley, MD 
+ - carolyn.foley@childrenscolorado.org
+
+**Administrative Assistants:**
+- Rotation coordinator: Lindsay Baumgartner (x74999),lindsay.baumgartner@childrenscolorado.org 
+- Stephanie Tymoszuk (x72648) or Delores Cano (x73163) anesthesiascheduling@childrenscolorado.org 
 
  
+::: details **Phone Numbers: (also see cards)**
+- Anesthesiologist Charge: 		x78339 
+- Anesthetist Charge:  			x72255 
+- Anesthesia Tech Charge:		x73939 
+- Acute Pain Service (APS):		x75433 (7-LIFE) 
+- Chronic Pain Clinic/Consults:		x74122 
+- Anesthesia OB Provider:		x70037 
+- OR/ICU pharmacy:			x76741/76742 
+- PICU:					x73239 
+- NICU:					x76857 
 
-**Administrative Assistants:  **
-Lindsay Baumgartner, Rotation Coordinator, (x74999) lindsay.baumgartner@childrenscolorado.org 
-Stephanie Tymoszuk (x72648) or Delores Cano (x73163) 
-anesthesiascheduling@childrenscolorado.org 
-
- 
-**Phone Numbers: (also see cards) **
-Anesthesiologist Charge: 		x78339 
-Anesthetist Charge:  			x72255 
-Anesthesia Tech Charge:		x73939 
-Acute Pain Service (APS):		x75433 (7-LIFE) 
-Chronic Pain Clinic/Consults:		x74122 
-Anesthesia OB Provider:		x70037 
-OR/ICU pharmacy:			x76741/76742 
-PICU:					x73239 
-NICU:					x76857 
-
-Main OR Front Desk:  		             x76492 
-General Computer Help: 		x74357 (7-HELP) 
-EPIC help:				x73739 (7-EREX) 
-
+- Main OR Front Desk:  		             x76492 
+- General Computer Help: 		x74357 (7-HELP) 
+- EPIC help:				x73739 (7-EREX) 
+:::
  
 
 Main CHCO Hospital Operator: x71234 
