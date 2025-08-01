@@ -60,13 +60,13 @@ Prior to the rotation, you will be provided a phone list each via email (“rost
 
 ## Potential shifts 
 
-Res-CHC-OR – (~6am- 5pm) This is a “normal” OR day (non-holiday, non-weekend). The days are busy, fun, and full of learning. Cases turn over faster than at UCH (OR staff will bring the patient back to OR before they count instruments). In a busy, high turnover room you can do ~10 cases in a day. Expect to finish the cases in your room, and you may be surprised with early relief. The “expectation” is to be out around 5PM. However, if you stay past 5PM the charge attendings do communicate with each other and they often try to get you out a little early the next day.  
+**Res-CHC-OR** – (~6am- 5pm) This is a “normal” OR day (non-holiday, non-weekend). The days are busy, fun, and full of learning. Cases turn over faster than at UCH (OR staff will bring the patient back to OR before they count instruments). In a busy, high turnover room you can do ~10 cases in a day. Expect to finish the cases in your room, and you may be surprised with early relief. The “expectation” is to be out around 5PM. However, if you stay past 5PM the charge attendings do communicate with each other and they often try to get you out a little early the next day.  
 
-Res-CHC-C2 – (7am Friday – 7am Saturday): This is a Friday call/late shift. Typically, this shift occurs the Friday before your C1AM Sunday shift, you will typically have a “short” assignment the following Monday.  You will report on Friday morning like any other workday. You will be the last person relieved from the OR with the exception of the overnight call C1 fellow. Once you are sent home, you will be on home call for the remainder of the shift and will be required to report back to CHCO from home within 30 minutes of being called. Residents do not take overnight calls on weekdays.  
+**Res-CHC-C2** – (7am Friday – 7am Saturday): This is a Friday call/late shift. Typically, this shift occurs the Friday before your C1AM Sunday shift, you will typically have a “short” assignment the following Monday.  You will report on Friday morning like any other workday. You will be the last person relieved from the OR with the exception of the overnight call C1 fellow. Once you are sent home, you will be on home call for the remainder of the shift and will be required to report back to CHCO from home within 30 minutes of being called. Residents do not take overnight calls on weekdays.  
 
-Res-CHC-C1P - (3pm Saturday – 7am Sunday): This is a Saturday overnight call shift, typically they try to assign you a “short” assignment the Friday before in which you will actually round with the acute pain service, so you know the patients on the pain service before your Saturday shift. You should plan to arrive around 2:15pm for your first shift to receive handoff from the APS advanced practice provider, change into scrubs, and receive sign-out from the anesthetist in the OR before assuming patient care promptly at 3pm. You may arrive a bit later on subsequent shifts once you know your way around and exactly how much time you will need. Call the APS phone (x75433) when you first arrive to arrange for sign-out. Sign into the “Anes Emergency Alert” role on your PCD upon arrival so you are notified of any codes/ airways/ Level 1 trauma pages. Take over the Code Team badge from the day anesthetist. Please keep your cell phone on Saturday morning in case of a massive casualty situation where we would need all available help earlier in the day. 
+**Res-CHC-C1P** - (3pm Saturday – 7am Sunday): This is a Saturday overnight call shift, typically they try to assign you a “short” assignment the Friday before in which you will actually round with the acute pain service, so you know the patients on the pain service before your Saturday shift. You should plan to arrive around 2:15pm for your first shift to receive handoff from the APS advanced practice provider, change into scrubs, and receive sign-out from the anesthetist in the OR before assuming patient care promptly at 3pm. You may arrive a bit later on subsequent shifts once you know your way around and exactly how much time you will need. Call the APS phone (x75433) when you first arrive to arrange for sign-out. Sign into the “Anes Emergency Alert” role on your PCD upon arrival so you are notified of any codes/ airways/ Level 1 trauma pages. Take over the Code Team badge from the day anesthetist. Please keep your cell phone on Saturday morning in case of a massive casualty situation where we would need all available help earlier in the day. 
 
-Res-CHC-C1A – (7am Sunday – 7pm Sunday): Report in time to take over any ongoing cases by 7am, or early enough to set up for a 7:30 start. Sign into the “Anes Emergency Alert” role on your PCD upon arrival. Take over the Code Team badge from the overnight resident. Check the board on EPIC/go to the Control Desk to see what is scheduled or call the attending charge phone (this is a dynamic process on weekends). You may be covering this shift on holidays as well. 
+**Res-CHC-C1A** – (7am Sunday – 7pm Sunday): Report in time to take over any ongoing cases by 7am, or early enough to set up for a 7:30 start. Sign into the “Anes Emergency Alert” role on your PCD upon arrival. Take over the Code Team badge from the overnight resident. Check the board on EPIC/go to the Control Desk to see what is scheduled or call the attending charge phone (this is a dynamic process on weekends). You may be covering this shift on holidays as well. 
 
 Occasionally you may be asked to cover a weekend or holiday C2 call if the fellows cannot cover it. You will be expected to report to the OR in the AM for C2 call, if there are 2 rooms running on the weekend, without being called. However, if you think you may not be needed (check the OR board from home for case schedule), call the attending in charge around 06:00-06:30 to see if you need to come in. If you are not needed for the first case, you must be able to be in the OR in 30 minutes after being contacted at all times during your shift. C2 call is for 24 hours, and home call after the 2nd room is done for the day. 
 
@@ -81,7 +81,6 @@ Call room:  located on the 2nd floor, past the bridge and Castle Peak conference
 Your first day will solely be orientation.  You do not need to get oriented prior to this from other residents (as with most other rotations).  This will include a morning of Epic training, badge collection and parking information and access. You will be required to either bring a copy of your car’s registration OR know your license plate number to obtain a parking pass.  On the first day you may park in the visitor lot out the front of the hospital.  On subsequent days (once you have a CHCO parking sticker on your car) you will be ticketed if you do not park in the assigned lot.  Your badge will be your method of access to the parking lot, hospital and all departments and doors in the OR (includes the anesthesia work room.)  After your Epic training, you will have a brief tour.  
 
  
-
 At completion of your tour please be sure to accomplish the following: 
 
 Check that Lindsay has your correct contact info, including your UCH email (very important that you confirm your email is included in daily case assignments and OR schedules), cell phone#, and obtain the attending cell phone roster, lecture and call schedules. 
@@ -102,7 +101,6 @@ Lindsay Baumgartner will assign lockers; depending on the number of residents, y
 
 Following orientation, start working on your pre-ops for the next day so that you may call your attending in a timely manner. 
 
- 
 
 ## General Info: 
 
@@ -116,11 +114,9 @@ All patient information is on electronic boards in pre-op, post-op and ORs. Chec
 
 Be sure to communicate with pre-op and OR nurses about pre-meds if you have ordered them (oral midazolam needs ~30 minutes to be effective so be proactive!) 
 
-Weekday Daily Workflow: 
+## Weekday Daily Workflow: 
 
- 
-
-Set up: 
+### Set up: 
 
 The next day schedule should be out by 2-4 pm by email.  All names by initials (see Roster).  
 
@@ -142,7 +138,7 @@ Generally speaking, do not place syringes that have touched the patient’s line
 
  
 
-Pre-op: 
+### Pre-op: 
 
 Arrive in Pre-op by 7:00 (8:00 on Mondays) to see your patient.  Our window is 07:00-07:10, but you can see them earlier if they are “ready” per the pre-op RN (purple on Epic status board). 
 
@@ -174,7 +170,7 @@ Parents are not typically present at induction.
 
  
 
-In the OR: 
+### In the OR: 
 
 Go back to the room and do a final check while you wait for the child to come back to the OR with the circulating nurse (you do not bring the patient back, the circulator does unless you are giving IV midazolam). 
 
@@ -202,7 +198,7 @@ Anesthesia techs place airway bags on anesthesia machine—be sure to correctly 
 
  
 
-Emergence, Post-op : 
+### Emergence, Post-op : 
 
 You will chart in EPIC similarly to at UCH, with a few minor changes.  
 
@@ -226,7 +222,7 @@ Also see PICU/NICU section below for additional info
 
  
 
-End of day: 
+### End of day: 
 
 Ask for feedback and go feedback with your attending before leaving on a daily basis.  Please be proactive and help to facilitate this.   
 
@@ -242,7 +238,7 @@ Discuss with your attending who will be responsible for completing the post op n
 
  
 
-ICU (NICU and PICU): 
+## ICU (NICU and PICU): 
 
 For patients going to NICU or PICU, a member of the anesthesia team must call the ICU to give a brief report to the ICU attending or fellow/PA prior to leaving the OR. Usually within ~30 minutes of expected arrival time to ICU. 
 
@@ -256,7 +252,7 @@ Ask attending about how to appropriately document VS and transport events in Epi
 
  
 
-Drugs/Pharmacy: 
+## Drugs/Pharmacy: 
 
 Controlled drugs are in Omnicells in each OR  
 
@@ -292,7 +288,7 @@ All drugs need to be labeled, including propofol. All ORs now have label printin
 
  
 
-Lectures : 
+## Lectures : 
 
 You are expected to attend all morning lectures Tues, Thurs at 6:30-07:00 (check your email for location/zoom links) 
 
@@ -300,7 +296,7 @@ Mondays you will attend any CHC M&M or grand rounds.  If there is no presentatio
 
  
 
-Acute Pain Service  
+## Acute Pain Service  
 
 Will give you sign out and their PCD on C1 Saturday overnight call.   
 
@@ -324,7 +320,7 @@ The C1 Saturday overnight resident is assigned to the Acute Pain Service (APS) o
 
  
 
-Codes:  
+## Codes:  
 
 Coordinate with your attending by phone or in person for all codes 
 
@@ -354,13 +350,12 @@ Discuss with your attending how to document all patient care delivered outside t
 
  
 
-Blood: 
+## Blood: 
 
 Please leave blood products in the OR refrigerator until you are going to transfuse them (except emergencies) to avoid temperature indicator color change. 
 
- 
 
-Rotation specific items/Tips for success: 
+## Tips for success: 
 
 CHCO is a place to let your inner type-A shine! Attendings appreciate attention to detail and cleanliness more than efficiency. You will notice that the entire OR works together to provide the safest, best care we can (i.e., the circulator will typically be near the head of the bed helping with induction, people with help you with IVs, etc). It is a very team-oriented, patient-focused learning site so enjoy! 
 
@@ -381,7 +376,6 @@ Please refer to the CHC policies and procedures for additional information on to
 There are now 2 computers screens in all OR’s.  The one above the APL valve is a touch screen and automatically links to anesthesia machine (you must login on this computer in order for VS to automatically load into Epic); the regular computer is not linked to anesthesia machine (you must manually link it if you want it to record vitals). 
 
 Attendings here have trained in a variety of places—it is very common to do very similar cases and procedures one way with one attending and completely different another day with another attending. It can be extremely frustrating at first, so be very patient. Be sure to have a thorough and complete plan for your cases that day. In the end, it is good to see different ways of doing things so that you can adapt and develop your own practice based on what has worked for you.  
-
  
 
 ## Professionalism: 
