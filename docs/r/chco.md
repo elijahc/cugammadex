@@ -39,6 +39,8 @@ outline: [2,4]
 :::
 
 Emergency Operator (Codes, Massive Transfusion, Security): x75555 
+
+
 One Call (paging provider to provider): x73999 (also see “On-Call Finder”, top right in EPIC) 
 
  ## Remote access, including Epic and CHC intranet:
@@ -57,7 +59,7 @@ Prior to the rotation, you will be provided a phone list each via email (“rost
 
 **Res-CHC-OR** – (~6am- 5pm) This is a “normal” OR day (non-holiday, non-weekend). The days are busy, fun, and full of learning. Cases turn over faster than at UCH (OR staff will bring the patient back to OR before they count instruments). In a busy, high turnover room you can do ~10 cases in a day. Expect to finish the cases in your room, and you may be surprised with early relief. The “expectation” is to be out around 5PM. However, if you stay past 5PM the charge attendings do communicate with each other and they often try to get you out a little early the next day.  
 
-**Res-CHC-C2** – (7am Friday – 7am Saturday): This is a Friday call/late shift. Typically, this shift occurs the Friday before your C1AM Sunday shift, you will typically have a “short” assignment the following Monday.  You will report on Friday morning like any other workday. You will be the last person relieved from the OR with the exception of the overnight call C1 fellow. Once you are sent home, you will be on home call for the remainder of the shift and will be required to report back to CHCO from home within 30 minutes of being called. Residents do not take overnight calls on weekdays.  
+**Res-CHC-C2** – (7am – 7am Weekdays): This is a Weekday call/late shift with a post-call day the following day. You will be the last person relieved from the OR with the exception of the overnight call C1 fellow. Once you are sent home, you will be on home call for the remainder of the shift and will be required to report back to CHCO from home within 30 minutes of being called.  
 
 **Res-CHC-C1P** - (3pm Saturday – 7am Sunday): This is a Saturday overnight call shift, typically they try to assign you a “short” assignment the Friday before in which you will actually round with the acute pain service, so you know the patients on the pain service before your Saturday shift. You should plan to arrive around 2:15pm for your first shift to receive handoff from the APS advanced practice provider, change into scrubs, and receive sign-out from the anesthetist in the OR before assuming patient care promptly at 3pm. You may arrive a bit later on subsequent shifts once you know your way around and exactly how much time you will need. Call the APS phone (x75433) when you first arrive to arrange for sign-out. Sign into the “Anes Emergency Alert” role on your PCD upon arrival so you are notified of any codes/ airways/ Level 1 trauma pages. Take over the Code Team badge from the day anesthetist. Please keep your cell phone on Saturday morning in case of a massive casualty situation where we would need all available help earlier in the day. 
 
@@ -121,7 +123,6 @@ Do your pre-op H&Ps on Epic for outpatients coming into the hospital as complete
 
 Contact your attending (early in the afternoon/evening if possible) to present your plan (and explain why) for your patients.  Before 7 pm is typically better. 
 
-See and/or most importantly obtain verbal consent for all inpatients scheduled for the next day.  The written anesthesia consent at CHCO is included in the surgical consent. So, consenting the day before involves a verbal conversation (in person, or over the phone) with the patient’s parent/guardian.  
 
 Give yourself 15 - 30 minutes to set-up your OR before any morning conferences (in Castle Peak conference room down hall from locker rooms 0630- 0700 Tues/Thurs) 
 
@@ -145,7 +146,7 @@ Make sure you ID the child and find correct parent(s).
 
 You can use the in-room computers to fill out your pre-op note. 
 
-Decide early on (ideally > 30 min prior to OR) if your patient needs pre-anesthesia PO midazolam (“pre med”) as it takes some time for the RN to administer and to reach clinical effect.  The 2–4-year age group is most common.  You will need to inform the pre-op RN directly for timely administration of the premed. If the patient has active or recent URI symptoms (last 2-4 weeks), speak with the attending before ordering any medications, as this may warrant case cancellation. 
+Decide early on (ideally > 30 min prior to OR) if your patient needs pre-anesthesia PO midazolam (“pre med”) as it takes some time for the RN to administer and ~30min to reach clinical effect.  The 2–4-year age group is most common.  You will need to inform the pre-op RN directly for timely administration of the premed. If the patient has active or recent URI symptoms (last 2-4 weeks), speak with the attending before ordering any medications, as this may warrant case cancellation. 
 
 If you would like an IV placed in a patient (typically >12 yo), this order may be placed in EPIC the night before. Pre-op acetaminophen orders may be placed once the patient weight is verified; notify the RN that an order has been placed. 
 
@@ -158,6 +159,10 @@ When done with pre-op, you may wait for the patient in the OR—nurses bring pat
 Many times, you will need an interpreter—typically there is an in-person interpreter floating around pre-op for first case starts.  If you need an interpreter for a case later in the day, you likely will need to use a translator phone or iPad. 
 
 First case start times may be a little more lax than at UCH, but it is always good practice to get your preop done and room ready—try not be the reason there is a delay. 
+
+::: warning
+There is an active first case starts project being implemented, they may be more aggressive about trying to have cases going by 0730.
+:::
 
 Some attendings will pre-op the next patient while others will ask you to do so (communicate with them). Be prepared to drop a patient off in PACU, speak with that patient’s parents in the waiting area, and then go to pre-op to see your next patient, all prior to going back to the OR to get your room ready and waste your drugs for the next case. 
 
@@ -185,7 +190,13 @@ Use your skills (iPad) to keep the child engaged and happy while you give approx
 
 Open communication and distraction with something interesting and enjoyable to the child is commonly preferred over repeated reassurances of “you’re ok” which are in stark contradiction to what the patient is experiencing.   
 
-N2O is an odorless way of getting the induction started.  NOTE - if the patient is a small baby and is asleep then leave the pacifier in and perform a “steal” induction without touching the baby and hopefully without waking them.    
+N2O is an odorless way of getting the induction started though it is no longer available in the hospital gas supply, you must open the tanks on the back of the anesthesia machine if you want to use it.
+
+
+::: info **NOTE** 
+If the patient is a small baby and is asleep then leave the pacifier in and perform a “steal” induction without touching the baby and hopefully without waking them.    
+:::
+
 
 Some kids do better if sitting up on the OR bed or being - wrap a warm blanket around their shoulders and hug their arms to their sides as they drift off.   
 
