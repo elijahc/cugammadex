@@ -4,11 +4,9 @@ tags: rotation-guide
 outline: [2,4]
 ---
 
-> [!WARNING]
-> Currently a **Draft**; still needs reformatting
 
 # Childrens Hospital Colorado (CHCO)
-> Most recently updated by Tessa Klumpp, MD, Brian Tashjian, MD, Kelsey Repine, MD july 2023 
+> Most recently updated by Tessa Klumpp, MD, Brian Tashjian, MD, Kelsey Repine, MD July 2023 
 
  
 
@@ -24,26 +22,23 @@ outline: [2,4]
 
  
 ::: details **Phone Numbers: (also see cards)**
+- Main CHCO Hospital Operator: x71234 
 - Anesthesiologist Charge: 		x78339 
 - Anesthetist Charge:  			x72255 
 - Anesthesia Tech Charge:		x73939 
 - Acute Pain Service (APS):		x75433 (7-LIFE) 
 - Chronic Pain Clinic/Consults:		x74122 
-- Anesthesia OB Provider:		x70037 
+- Anesthesia OB Provider:		x70037
+- Omnicell:      x76747
 - OR/ICU pharmacy:			x76741/76742 
 - PICU:					x73239 
 - NICU:					x76857 
-
 - Main OR Front Desk:  		             x76492 
 - General Computer Help: 		x74357 (7-HELP) 
 - EPIC help:				x73739 (7-EREX) 
 :::
- 
-
-Main CHCO Hospital Operator: x71234 
 
 Emergency Operator (Codes, Massive Transfusion, Security): x75555 
-
 One Call (paging provider to provider): x73999 (also see “On-Call Finder”, top right in EPIC) 
 
  ## Remote access, including Epic and CHC intranet:
@@ -70,11 +65,8 @@ Prior to the rotation, you will be provided a phone list each via email (“rost
 
 Occasionally you may be asked to cover a weekend or holiday C2 call if the fellows cannot cover it. You will be expected to report to the OR in the AM for C2 call, if there are 2 rooms running on the weekend, without being called. However, if you think you may not be needed (check the OR board from home for case schedule), call the attending in charge around 06:00-06:30 to see if you need to come in. If you are not needed for the first case, you must be able to be in the OR in 30 minutes after being contacted at all times during your shift. C2 call is for 24 hours, and home call after the 2nd room is done for the day. 
 
-Reading day – you will receive 1 reading day per 4-week rotation. This is alotted because the weekdays tend to be long and there are no post-call weekdays. Contact Lindsay early to schedule this. You will receive email confirmation once the day is approved. There are no clinical obligations on this day.  
+**Reading day** – you will receive 1 reading day per 4-week rotation. This is alotted because the weekdays tend to be long and there are no post-call weekdays. Contact Lindsay early to schedule this. You will receive email confirmation once the day is approved. There are no clinical obligations on this day.      
 
-Call room:  located on the 2nd floor, past the bridge and Castle Peak conference room and through the double doors.  Code 8-6-4-2.  Our call room is labeled (#3) and the code is again 8-6-4-2.    
-
- 
 
 ## Day 1 at CHCO:  
 
@@ -102,6 +94,7 @@ Lindsay Baumgartner will assign lockers; depending on the number of residents, y
 Following orientation, start working on your pre-ops for the next day so that you may call your attending in a timely manner. 
 
 
+
 ## General Info: 
 
 Attendings will sometimes run their own room, sometimes work one on one with residents and other times have 2 residents and fellows to supervise.  
@@ -113,6 +106,10 @@ There are also AAs and CRNAs working at Children’s. Be kind to them!
 All patient information is on electronic boards in pre-op, post-op and ORs. Check this board before you set up anything as cases cancel/delay more often than at UCH. 
 
 Be sure to communicate with pre-op and OR nurses about pre-meds if you have ordered them (oral midazolam needs ~30 minutes to be effective so be proactive!) 
+
+
+Call room:  located on the 2nd floor, past the bridge and Castle Peak conference room and through the double doors.  Code 8-6-4-2.  Our call room is labeled (#3) and the code is again 8-6-4-2.
+
 
 ## Weekday Daily Workflow: 
 
