@@ -45,7 +45,11 @@ One Call (paging provider to provider): x73999 (also see “On-Call Finder”, t
 
  ## Remote access, including Epic and CHC intranet:
  https://go.childrenscolorado.org/vpn/index.html 
- 
+
+
+To setup Haiku (or Canto), visit [haikusetup.childrenscolorado.org](https://haikusetup.childrenscolorado.org)
+
+The CHCO EPIC helpdesk can also assist with getting haiku configured. 
 
 ## Phone tips: 
 
