@@ -62,13 +62,26 @@ export default defineConfig({
       ],
       '/r/': [
         {
-          text: 'Rotations',
+          text: 'General OR Rotations',
           items: [
-            { text: "CT Anes", link: '/r/ct' },
+            { text: "VA Hospital", link: '/r/va' },
+	        { text: "UCH", link: '/r/uch' },
+            { text: "Denver Health", link: '/r/dh'},
+          ]
+        },{
+          text: 'Subspecialties',
+          items: [
             { text: "OB Anes", link: '/r/ob'},
             { text: "Transplant Anes", link: '/r/txp'},
+            { text: "CT Anes", link: '/r/ct' },
+            { text: "Neuroanesthesia", link: '/r/neuro' },
+            { text: "Pediatric Anes", link: '/r/chco'},
+          ]
+        },{
+          text: 'ICU Rotations',
+          items: [
+            { text: "STICU", link: '/r/sticu'},
             { text: "CTICU", link: '/r/cticu'},
-            { text: "NORA", link: '/r/nora'},
           ]
         }
       ]
