@@ -19,3 +19,5 @@ This is a port of previous short URL for common resources
 [UCH TEG Manager](https://tegmgr-s-prod.uch.ad.pvt/Account/Login?returnUrl=%2F)
 
 [hackmd.io anes-rx](https://hackmd.io/@elijahc/anes-rx/)
+
+[peds anes rx](https://hackmd.io/@elijahc/peds-anes-rx)
