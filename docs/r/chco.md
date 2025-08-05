@@ -113,6 +113,18 @@ Be sure to communicate with pre-op and OR nurses about pre-meds if you have orde
 Call room:  located on the 2nd floor, past the bridge and Castle Peak conference room and through the double doors.  Code 8-6-4-2.  Our call room is labeled (#3) and the code is again 8-6-4-2.
 
 
+### Please know where the following items are prior to your first day: 
+- Belmont infuser 
+- Trauma line cart and central line omnicell
+- Emergency airway cart
+- Advanced airway tools
+- MH cart
+- Code carts for OR and PACU
+- Main omni (“Mommy Omni”)
+- 520 tube station
+- Main OR blood refrigerator 
+
+
 ## Weekday Daily Workflow: 
 
 ### Set up: 
@@ -296,7 +308,7 @@ All drugs need to be labeled, including propofol. All ORs now have label printin
 
  
 
-## Lectures : 
+## Lectures
 
 You are expected to attend all morning lectures Tues, Thurs at 6:30-07:00 (check your email for location/zoom links) 
 
@@ -358,12 +370,12 @@ Discuss with your attending how to document all patient care delivered outside t
 
  
 
-## Blood: 
+## Blood
 
 Please leave blood products in the OR refrigerator until you are going to transfuse them (except emergencies) to avoid temperature indicator color change. 
 
 
-## Tips for success: 
+## Tips for success
 
 CHCO is a place to let your inner type-A shine! Attendings appreciate attention to detail and cleanliness more than efficiency. You will notice that the entire OR works together to provide the safest, best care we can (i.e., the circulator will typically be near the head of the bed helping with induction, people with help you with IVs, etc). It is a very team-oriented, patient-focused learning site so enjoy! 
 
@@ -394,15 +406,10 @@ Be proactive in your communication at all times (from pre op planning, problems/
 
 For complex cases and blocks, please make an effort to personally post-op patients that stay > 24 hrs inpatient.  See (or call patients at home) that had nerve blocks to see how they did with any blocks you placed. 
 
- 
 
-## Please know where the following items are prior to your first day: 
-- Belmont infuser 
-- Trauma line cart and central line omnicell
-- Emergency airway cart
-- Advanced airway tools
-- MH cart
-- Code carts for OR and PACU
-- Main omni (“Mommy Omni”)
-- 520 tube station
-- Main OR blood refrigerator 
+## Resources
+
+### Protocols
+
+CHCO has an internal sharepoint with protocols for a subset of the cases you might see. Access to this sharepoint may be restricted without a CHCO email address which residents rotating there won't have. The link below is a folder containing some of these that were shared by email.
+- [CHCO Protocols](https://olucdenver-my.sharepoint.com/:f:/g/personal/elijah_christensen_cuanschutz_edu/Eg307Sh4LURCisZnThnq9i0B5xnF0HtjkF2gr68NbnnHqA?e=COLi64)
