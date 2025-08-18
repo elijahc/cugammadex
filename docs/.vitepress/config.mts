@@ -30,11 +30,9 @@ export default defineConfig({
       { text: 'Rotations',
         items: [
           { text: "All rotations", link: '/r'},
-          { text: "CT Anes", link: '/r/ct' },
-          { text: "OB Anes", link: '/r/ob'},
-          { text: "Txp Anes", link: '/r/txp'},
-	        { text: "CTICU", link: '/r/cticu'},
-          { text: "NORA", link: '/r/nora'},
+          { text: "General OR rotations", link: '/r/#general-or-rotations' },
+          { text: "Subspecialty rotations", link: '/r/#subspecialty-or-rotations'},
+	      { text: "ICU rotations", link: '/r/#icu-rotations'},
         ]}
     ],
 
@@ -44,21 +42,20 @@ export default defineConfig({
           text: 'Extras',
           items: [
             // { text: 'Forward', link '/'},
-            { text: 'Important Contacts', link: '/contacts'},
-            { text: 'Housekeeping', link: '/house-keeping-items'},
-            { text: 'Intern Intro', link: '/interns'},
-            { text: 'QGenda Glossary', link: '/ref/qgenda-glossary'},
+            { text: 'Important Contacts', link: '/supplemental/contacts'},
+            { text: 'Housekeeping', link: '/supplemental/house-keeping-items'},
+            { text: 'Intern Intro', link: '/supplemental/interns'},
+            { text: 'QGenda Glossary', link: '/supplemental/qgenda-glossary'},
           ],
         },
         {
           text: 'Rotations',
-          items: [
-            { text: 'CT', link: '/r/ct'},
-            { text: 'NORA', link: '/r/nora'},
-            { text: 'OB', link: '/r/ob'},
-            { text: 'Transplant', link: '/r/txp'}
-          ]
-        }
+	        items: [
+	          { text: "All rotations", link: '/r'},
+	          { text: "General OR rotations", link: '/r/#general-or-rotations' },
+	          { text: "Subspecialty rotations", link: '/r/#subspecialty-or-rotations'},
+		      { text: "ICU rotations", link: '/r/#icu-rotations'},
+	        ]}
       ],
       '/r/': [
         {
