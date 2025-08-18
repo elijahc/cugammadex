@@ -6,9 +6,9 @@ outline: [2,4]
 
 # CTICU at UCH
 
-### Important People
+## Important People
 
-##### CTICU Attendings
+**CTICU Attendings**
 Sarah Alber, MD
 Sam Gilliland, MD
 Kenji Tanabe MD
@@ -17,7 +17,7 @@ Jenna Cottral MD
 Andrew Hennigan MD
 Marianne Wallis MD
 
-##### CTICU APPs
+**CTICU APPs**:
 Caitlin Blaine, PA (lead), Lisa Bauers NP, Terra Busse PA, Kelly Dever NP, Phil Logan PA, Sean Meehan PA, Nora Metz NP, Stephanie Schneider PA
 
 ## Overview
@@ -41,18 +41,19 @@ hear a brief daily plan from the fellow/night resident. Thereafter, the night re
 will give sign out on the rest of the unit patients (Thoracic and Vascular patients)
 and answer any questions.
 
-> [!TIP]
-> Goal of 2-3 mins per patient
-> - One liner with notable 24H events
-> - Remains in the ICU for the following
-> - Resp status (how much NC or vent settings)
-> - Review of vasoactives
-> - Overall I/O total and did we hit our goal; what's our diuresis plan, is CRRT something like we need to consider?
-> - Drains in place with outputs and how we will manage them
-> - Pacing wires present? How will we manage them?
-> - Pertinent labs: CBC, coags, SCr, ABG
-> - AC plans?
-> - Finally, high-priority, patient specific items if needed 
+::: info **Fellow rounds presentation tips**
+- Goal of 2-3 mins per patient
+- One liner with notable 24H events
+- Remains in the ICU for the following
+- Resp status (how much NC or vent settings)
+- Review of vasoactives
+- Overall I/O total and did we hit our goal; what's our diuresis plan, is CRRT something like we need to consider?
+- Drains in place with outputs and how we will manage them
+- Pacing wires present? How will we manage them?
+- Pertinent labs: CBC, coags, SCr, ABG
+- AC plans?
+- Finally, high-priority, patient specific items if needed
+:::
 
 ### Pre-rounds
 You then have time between fellow rounds and attending rounds to completely lookup and
@@ -66,7 +67,7 @@ CTICU attending rounds start around 8 AM and the length is quite variable
 depending on the attending, ranging from brief to comprehensive (surgical attendings prefer brevity).
 
 > [!TIP]
-> **Presentations**:
+> **Attending rounds presentations**:
 > - Start with Name, POD# s/p surgery. Note any significant intraoperative events.
 > - Then significant 24hr events.
 > - Then jump to Assessment/Plan by system (Neuro-including sedation/pain, CV, Pulm, Renal, ID, Endo, FEN.
