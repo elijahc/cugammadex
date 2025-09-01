@@ -25,3 +25,6 @@ outline: False
 ## ICU Rotations
 - [STICU](./sticu.md)
 - [CTICU](./cticu.md) :warning:
+
+## CA-3 Rotations
+- [Senior Month](./senior.md)
