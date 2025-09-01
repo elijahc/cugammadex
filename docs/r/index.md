@@ -28,3 +28,5 @@ outline: False
 
 ## CA-3 Rotations
 - [Senior Month](./senior.md)
+- [PACU](./pacu.md)
+- [Inverness](./inverness.md)
