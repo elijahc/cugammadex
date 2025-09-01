@@ -61,3 +61,54 @@ If the chief residents find out you are going to be called in for a night shift,
 If a 24-hour ICU shift needs to be covered, the day and night jeopardy residents will split the ICU shift in half (7-7). 
 
  
+## Senior Nights
+
+Senior Nights are a wonderful chance to gain experience in anesthesia supervision and board running. You will be expected to act as the charge attending. Be sure to take advantage of the opportunity to practice as an independent attending, while still having supervision and backup if you need it. 
+
+**Hours**
+9PM- 7AM, Monday, Tuesday, Wednesday, Thursday, and Friday nights. 
+
+ 
+
+### Typical Workflow
+Upon arrival at 9pm- sign into both the trauma and airway emergency teams on epic., and call the C1 charge (85920) to get an update on any ongoing/pending cases and any concerning PACU patients that may need your attention. Let the C1 know that you will be forwarding the charge phone to your PCD/cellphone as well. Be sure to clarify which C1 faculty is responsible for what cases overnight (e.g. usually they switch over around 2:30am).  
+
+ 
+During your shift, you will be acting as the overnight attending for all cases. You are expected to check in with both the R1 resident and C1 APP. They should be calling you for the usual things they would call the C1 attending for such as changes in patient status, plans for new patients, induction, extubation, transport assistance, or breaks. Typically you will be responsible for seeing and consenting patients in preop. You should clarify with the attendings of the night what they want to be notified for (e.g. call when a case is booked, or text when getting ready to induce and emerge). Be sure to keep the balance of cases roughly even between the R1 resident and C1 APP (typically alternate every other case). If things are light, you can discuss what call rooms are available with the C1 attending. There is a Leprino call room specifically for senior nights.  
+
+ 
+Cardiac and transplant cases overnight should be covered by the assigned on-call or float resident. However, there may be emergent cases that will require your help to setup and start while the on-call resident is on their way to the hospital, or the float resident is occupied. If such a case develops, please discuss with the C1 attending and the appropriate specialty faculty (CT1/LT1).  
+
+ 
+At 7am call the daytime charge attending to let them know of any sick or post-calls from overnight (e.g. did anyone call the phone to call out sick? Or did you call in R2 and they are post-call), you will also handoff any ongoing/pending cases to the AIP Charge attending. Before leaving, please ensure that you have forwarded the charge phone to the AIP charge. 
+
+ 
+
+### Communication
+Even though you are “independently” practicing, you will continue to follow the Policy for Supervision of Anesthesiology Residents. Briefly, the responsible C1 attending anesthesiologist must be called when:  
+
+1) A trauma activation occurs. Be prepared to provide additional details such as patient location, mode of injury, extent of injuries, and whether operative management is needed. 
+
+2) Airway emergencies are received. Be prepared to provide additional details such as patient location, patient respiratory status, urgent or emergent nature of securing the airway, and whether any other airway tools may be needed. 
+
+ 
+3) Specific perioperative events. 
+
+ - When the patient is set to be transported from the preoperative environment to the operating room. 
+
+ - When the patient is ready for induction of anesthesia.  
+
+- When the patient is ready for emergence from anesthesia. 
+
+- When any perceived patient safety issue exists. 
+
+- When any significant change in patient clinical status occurs. 
+
+- When any regional or neuraxial procedure is underway. 
+
+- When any central line placement is underway. 
+
+- When any difficult arterial line placement occurs. 
+
+ 
+Calls to the charge phone often require guidance from the responsible C1 attending anesthesiologist. Call the attending when any surgeon/surgical issue arises (e.g., cases that need bumped because of an emergency, multiple concurrent emergent cases, discussion of complex cases, etc.). For stroke alerts, be prepared to provide details such as patient location, time of stroke onset, extent of injury, the IR suite for the procedure, and whether general anesthesia or sedation is requested. This list is not exhaustive, please use your best judgement and do not hesitate to contact the C1 attending about any questions/concerns. 
