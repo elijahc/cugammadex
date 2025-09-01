@@ -8,6 +8,7 @@ outline: False
 
 - [Acute Pain Service](./aps.md) :warning:
 - [Non-OR Anesthesia (NORA)](./nora.md)
+- [Preop Clinic](./pps.md)
 
 ## General OR rotations
 - [RMR VA](./va.md)
