@@ -60,6 +60,12 @@ If the chief residents find out you are going to be called in for a night shift,
 
 If a 24-hour ICU shift needs to be covered, the day and night jeopardy residents will split the ICU shift in half (7-7). 
 
+## Jr-Attending (Res-Pretend):
+- You will function as the attending for the case, at the guidance of the faculty attending. With this in mind, you are responsible for the plan, induction, intraoperative management, emergence, resident teaching, and hand-off to the oncoming attending if the case is still going when you are relieved for the day.
+- The junior residents staff with you, and you staff with the attending the night before.
+- You are on the same call schedule as your faculty attending, and they are responsible for releasing you for the day.  
+- We ask that you take ownership of this role! Great leadership and attending practice.
+
  
 ## Senior Nights
 
@@ -68,7 +74,6 @@ Senior Nights are a wonderful chance to gain experience in anesthesia supervisio
 **Hours**
 9PM- 7AM, Monday, Tuesday, Wednesday, Thursday, and Friday nights. 
 
- 
 
 ### Typical Workflow
 Upon arrival at 9pm- sign into both the trauma and airway emergency teams on epic., and call the C1 charge (85920) to get an update on any ongoing/pending cases and any concerning PACU patients that may need your attention. Let the C1 know that you will be forwarding the charge phone to your PCD/cellphone as well. Be sure to clarify which C1 faculty is responsible for what cases overnight (e.g. usually they switch over around 2:30am).  
