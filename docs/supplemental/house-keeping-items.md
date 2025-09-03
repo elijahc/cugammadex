@@ -36,28 +36,28 @@ Dr. Kacmar and the rotation directors do their best to ensure you each meet thes
 
 3. Send an email to the following emails so we and the admin team can keep track:
    - anesthesiology.chiefs@ucdenver.edu
-   - anes_education@cuanschutz.edu
-   - Alyson.poeppelman@cuanschutz.edu
-   - bonnie.caywood@cuanschutz.edu
-   - Rachel.kacmar@cuanschutz.edu
+   - tara.boyle@cuanschutz.edu
+   - caroline.dockerty@cuanschutz.edu
+   
 
 Of special note: if you are sick or in an emergency, please don't hesitate to use these days - that's what they're for! We want residents to feel comfortable using a sick day when they are sick and you should feel confident you will not be interrogated as to why you need a sick day. However, this doesn't happen in a vacuum, often you will have to be covered by the resident on jeopardy or R2 especially if you're calling in for an evening or call shift. We all take turns as jeopardy so it is likely you will be called at some point to cover someone else's emergency, and there is no need to feel guilty about calling out. We just ask that you are cognizant of these factors. Therefore our recommendation is if you please take it. However, if you need a sick day to make it to an appointment we do ask you to plan ahead and schedule it on a day that scheduling wellness days above).
 
 If you are considering calling out sick, go ahead and send us a text so that we can be thinking about how to shuffle the assignments to optimize coverage.
 
+If you take a sick day on an overnight shift: If you have a post-call day, you will need to either 1) Work your originally scheduled post-call day or 2) take TWO sick days as you were not truly "post call." If you have another night shift to follow and you feel well enough to return to work, you only need to take one sick day.
+
 ## POST CALL PROCESS
 
-At UCH, Post-call starts after 10pm on transplant and R2 shifts and 9 pm on CT shifts. If you are going to be postcall because you are at the hospital after these cut offs, please do the following to help the next day team shuffle the schedule for coverage in the morning:
+At UCH, Post-call starts after 10pm. If you are going to be postcall because you are at the hospital after these cut offs, please do the following to help the next day team shuffle the schedule for coverage in the morning:
 
-- Send an email to the chiefs email (anesthesiology.chiefs@ucdenver.edu), the charge email (anesthesia.charge@ucdenver.edu), and your attending for the following day that you are postcall from the night before. Please include the OR you were going to be in.
-- Write your name on the whiteboard with postcall next to it.
+- Send an email to the chiefs email (anesthesiology.chiefs@ucdenver.edu), the charge email (anesthesia.charge@ucdenver.edu), and your attending for the following day that you are postcall from the night before. Please include the OR AND Cases you were going to be in.
 - Enjoy your postcall day and rest up!
 
 ## CONFERENCE DAYS, EDUCATION DAYS, EDUCATIONAL MONEY
 
-Conference days are back in person, and this means that the money available for presenting is back as well. You get $1000 per year in educational funds that can be spent on books, exams, study aid apps. You get an additional $1500 per year that can only be used if you present at a conference, in which case it can be used for flight costs and hotel costs, food costs, etc. Whether or not you plan to present, if you plan to attend the conference, make sure you look at registration fees as you have to register yourself and they often get more expensive the longer you wait. You get 5 educational days (workday days) per year. If your conference is 5 days long and you want to go to all of it, you can. If you only use some and find a conference later that you want to go to as well, let us know and depending on coverage we will try to make it happen.
+You get $1000 per year in educational funds that can be spent on books, exams, study aid apps. You get an additional $1500 per year that can only be used if you present at a conference, in which case it can be used for flight costs and hotel costs, food costs, etc. Whether or not you plan to present, if you plan to attend the conference, make sure you look at registration fees as you have to register yourself and they often get more expensive the longer you wait. You get 5 educational days (workday days) per year. If your conference is 5 days long and you want to go to all of it, you can. If you only use some and find a conference later that you want to go to as well, let us know and depending on coverage we will try to make it happen.
 
-After you get back from a conference, please email the education team your conference receipts and they will get you reimbursed. Additionally, if you buy textbooks, etc., they questions.
+After you get back from a conference, please email the education team your conference receipts and they will get you reimbursed. You can also get reimbursed for text books, question banks, etc. Reach out to the coordinators for more details on what can and cannot be purchased with education funds.
 
 The conference we host in Vail, Colorado, CRASH, is sponsored by the program for the CA3s - half the CA3s will go to the first half of it and the other half will go to the second half. This does not require educational days to be used.
 
