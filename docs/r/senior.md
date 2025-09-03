@@ -12,7 +12,7 @@ This rotation is an opportunity for self-guided, senior level learning, and give
 
 This month consists of the following breakdown:  
 
-- 1 week at of CT coverage  
+- 1 week at of "Pretending" 
 - 1-week Senior nights (see senior nights section for details) 
 - 1 week Day Jeopardy, “Senior Days” 
 - 1 week Night Jeopardy, “Wildcard” 
