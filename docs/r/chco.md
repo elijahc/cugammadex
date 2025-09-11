@@ -6,15 +6,15 @@ outline: [2,4]
 
 
 # Childrens Hospital Colorado (CHCO)
-> Most recently updated by Tessa Klumpp, MD, Brian Tashjian, MD, Kelsey Repine, MD July 2023 
+> Most recently updated by Alex Linse, MD in September, 2025
 
  
 
 ## Primary Contacts 
 
 **Residency Rotation Site Director**
-- Carolyn Foley, MD 
- - carolyn.foley@childrenscolorado.org
+- Carolyn Weinberger, MD 
+ - carolyn.Weinberger@childrenscolorado.org
 
 **Administrative Assistants:**
 - Rotation coordinator: Lindsay Baumgartner (x74999),lindsay.baumgartner@childrenscolorado.org 
@@ -63,15 +63,15 @@ Prior to the rotation, you will be provided a phone list each via email (“rost
 
 **Res-CHC-OR** – (~6am- 5pm) This is a “normal” OR day (non-holiday, non-weekend). The days are busy, fun, and full of learning. Cases turn over faster than at UCH (OR staff will bring the patient back to OR before they count instruments). In a busy, high turnover room you can do ~10 cases in a day. Expect to finish the cases in your room, and you may be surprised with early relief. The “expectation” is to be out around 5PM. However, if you stay past 5PM the charge attendings do communicate with each other and they often try to get you out a little early the next day.  
 
-**Res-CHC-C2** – (7am – 7am Weekdays): This is a Weekday call/late shift with a post-call day the following day. You will be the last person relieved from the OR with the exception of the overnight call C1 fellow. Once you are sent home, you will be on home call for the remainder of the shift and will be required to report back to CHCO from home within 30 minutes of being called.  
+**Res-CHC-C2** – (7am – 7am Weekdays): This is a Weekday call/late shift with a post-call day the following day. You will be the last person relieved from the OR with the exception of the overnight call C1 fellow. Once you are sent home, you will be on home call for the remainder of the shift and will be required to report back to CHCO from home within 30 minutes of being called. You may be asked to come in the next day in the case of a mass casualty. Expect to take about 1 of these per week, sometimes 2. 
 
-**Res-CHC-C1P** - (3pm Saturday – 7am Sunday): This is a Saturday overnight call shift, typically they try to assign you a “short” assignment the Friday before in which you will actually round with the acute pain service, so you know the patients on the pain service before your Saturday shift. You should plan to arrive around 2:15pm for your first shift to receive handoff from the APS advanced practice provider, change into scrubs, and receive sign-out from the anesthetist in the OR before assuming patient care promptly at 3pm. You may arrive a bit later on subsequent shifts once you know your way around and exactly how much time you will need. Call the APS phone (x75433) when you first arrive to arrange for sign-out. Sign into the “Anes Emergency Alert” role on your PCD upon arrival so you are notified of any codes/ airways/ Level 1 trauma pages. Take over the Code Team badge from the day anesthetist. Please keep your cell phone on Saturday morning in case of a massive casualty situation where we would need all available help earlier in the day. 
+**Res-CHC-C1P** - (5pm Saturday – 7am Sunday): This is a Saturday overnight call shift, typically they try to assign you a “short” assignment the Friday before in which you will actually round with the acute pain service, so you know the patients on the pain service before your Saturday shift. You should plan to arrive around 4:15pm for your first shift to receive handoff from the APS advanced practice provider, change into scrubs, and receive sign-out from the anesthetist in the OR before assuming patient care promptly at 5pm. You may arrive a bit later on subsequent shifts once you know your way around and exactly how much time you will need. Call the APS phone (x75433) when you first arrive to arrange for sign-out. Sign into the “Anes Emergency Alert” role on your PCD upon arrival so you are notified of any codes/ airways/ Level 1 trauma pages. Take over the Code Team badge from the day anesthetist. Please keep your cell phone on Saturday morning in case of a massive casualty situation where we would need all available help earlier in the day. 
 
 **Res-CHC-C1A** – (7am Sunday – 7pm Sunday): Report in time to take over any ongoing cases by 7am, or early enough to set up for a 7:30 start. Sign into the “Anes Emergency Alert” role on your PCD upon arrival. Take over the Code Team badge from the overnight resident. Check the board on EPIC/go to the Control Desk to see what is scheduled or call the attending charge phone (this is a dynamic process on weekends). You may be covering this shift on holidays as well. 
 
 Occasionally you may be asked to cover a weekend or holiday C2 call if the fellows cannot cover it. You will be expected to report to the OR in the AM for C2 call, if there are 2 rooms running on the weekend, without being called. However, if you think you may not be needed (check the OR board from home for case schedule), call the attending in charge around 06:00-06:30 to see if you need to come in. If you are not needed for the first case, you must be able to be in the OR in 30 minutes after being contacted at all times during your shift. C2 call is for 24 hours, and home call after the 2nd room is done for the day. 
 
-**Reading day** – you will receive 1 reading day per 4-week rotation. This is alotted because the weekdays tend to be long and there are no post-call weekdays. Contact Lindsay early to schedule this. You will receive email confirmation once the day is approved. There are no clinical obligations on this day.      
+This rotation is no longer eligible for Academic Wellness Days as there are enough Non-Clinical Days now that residents are taking the C2 Call during the week. Please schedule appointments on the non-clinical days or swap shifts with your co-residents if you need to make an appointment on a certain day. The chiefs can help facilitate this.   
 
 
 ## Day 1 at CHCO:  
@@ -176,13 +176,10 @@ Many times, you will need an interpreter—typically there is an in-person inter
 
 First case start times may be a little more lax than at UCH, but it is always good practice to get your preop done and room ready—try not be the reason there is a delay. 
 
-::: warning
-There is an active first case starts project being implemented, they may be more aggressive about trying to have cases going by 0730.
-:::
 
 Some attendings will pre-op the next patient while others will ask you to do so (communicate with them). Be prepared to drop a patient off in PACU, speak with that patient’s parents in the waiting area, and then go to pre-op to see your next patient, all prior to going back to the OR to get your room ready and waste your drugs for the next case. 
 
-Parents are not typically present at induction.  
+Parents are almost never present at induction.  
 
  
 
@@ -202,7 +199,7 @@ Pay attention and avoid doing other tasks during this and during the time in and
 
 SCDs must be on prior to induction, if indicated.   
 
-Use your skills (iPad) to keep the child engaged and happy while you give approximately 35 to 40% nitrous oxide in oxygen.  Usually okay to turn on 8% sevoflurane for induction except for certain patients (ie, T21). 
+Use your skills (iPad) to keep the child engaged and happy while you give approximately 35 to 40% nitrous oxide in oxygen.  Usually okay to turn on 8% sevoflurane for induction except for certain patients (ie, Trisomy 21). 
 
 Open communication and distraction with something interesting and enjoyable to the child is commonly preferred over repeated reassurances of “you’re ok” which are in stark contradiction to what the patient is experiencing.   
 
@@ -248,7 +245,7 @@ Also see PICU/NICU section below for additional info
 
 ### End of day: 
 
-Ask for feedback and go feedback with your attending before leaving on a daily basis.  Please be proactive and help to facilitate this.   
+Ask for feedback and with your attending before leaving on a daily basis.  Please be proactive and help to facilitate this.   
 
 If you get out of the OR more than an hour before your colleagues, please work as a team and help your fellow resident with pre-ops if they are going to be stuck there late.  You can either break them out or see their inpatients for them.  This is especially helpful when a resident has a late case one day with a busy ENT/urology room the following day (sometimes up to 10 pre-ops). 
 
@@ -385,7 +382,7 @@ CHCO is a place to let your inner type-A shine! Attendings appreciate attention 
 
 You may find yourself being more closely supervised at CHC than other rotations, especially when you are new here.  Do not take this personally.  As we get to know you that will typically change. 
 
-We realize that taking care of very ill and traumatically injured children can be emotionally challenging.  Please let us know if this is an issue so we can address it sooner rather than later. Good resources are Drs. Bielsky, or Janosy and Jo Vogeli. 
+We realize that taking care of very ill and traumatically injured children can be emotionally challenging.  Please let us know if this is an issue so we can address it sooner rather than later. Good resources are Drs. Bielsky or Janosy, the CHCO Fellows, and the chiefs. 
 
 Spine fusions, acetabular osteotomy cases, VPS, ERAS, and transplant cases are complex and highly protocol driven.  Please ensure you obtain a copy of the protocol from sharepoint (clinical section), discuss the case with your attending, and give yourself adequate time to set up.  Always look to see if a protocol exists for major cases (or ask attending during pre-op discussion if one exists).  
 
