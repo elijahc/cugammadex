@@ -11,6 +11,9 @@ hero:
       text: Rotations
       link: /r/
     - theme: brand
+      text: Lecture recordings
+      link: https://olucdenver.sharepoint.com/:f:/r/sites/Anesthesiology/Shared%20Documents/Resident%20Lectures%20-%20Education?csf=1&web=1&e=ES2hwg
+    - theme: alt
       text: Rx Reference
       link: https://hackmd.io/@elijahc/anes-rx
     - theme: alt
