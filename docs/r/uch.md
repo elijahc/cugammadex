@@ -142,9 +142,6 @@ R1: This means overnight call: 3pm-7am. You will finish all the late cases for t
 
 12 hour: Normal am-7pm: Start with the first cases of the day and you are in house until 7pm.  Res-OR: You usually finish and can leave after you have finished your cases, or about 3-5p. If you finish early, always check with the charge anesthesia attending to see if you are needed elsewhere. 
 
-  
-
- 
 
 ## Call Nights/Weekend Call
 
@@ -155,10 +152,17 @@ Weekend call is a 12-hour shift, 7am-7pm.
 ### Call Room 
 Located on the 2nd floor between AOP and AIP. Room # 2016. Code is 5889#. We just got new stuff (Nespresso, Pillows, Mattress topper, etc) for the call room so please keep it nice! 
 
-### agers (Trauma activation and Code pager)
+### Pagers (Trauma activation and Code pager)
 
 When on call, you will carry a code/airway pager as well as a trauma activation pager (see below). Codes (See Section “What to do at a code”): Your responsibility is the “A” of the ABCs. Get to the head of the bed, assess need for airway intervention. It’s OK to push RTs, RNs, and other residents out of the way. Before intubation remember “VISA” V-ventilator or ambu-bag ready? I- patent IV functioning?, S- suction ready?,  A- airway tools available?  Always remember to grab the Airway Box prior to heading to the code location.   
 
-Airway Box Locations: 1) main OR anesthesia charge station, 2) in PACU, 3) in STICU located at main nursing pod, 4) CTICU by the signout roomYou will carry the trauma pager when on call at UCH as well. If you are not in a case, you should go down to the ED for all trauma activations as we are a Level 1 Trauma center. The ED owns the airway, and we just stand by the door to help if needed. Your secondary objective is to determine if the case will rush up to the OR. 
+Airway Bag Locations: 
+1) main OR anesthesia charge station
+2) in PACU
+3) in STICU located at main nursing pod
+4) CTICU by the signout roomYou will carry the trauma pager when on call at UCH as well
+5) Resident workroom (aka the K-Hole)
+
+If you are not in a case, you should go down to the ED for all trauma activations as we are a Level 1 Trauma center. The ED owns the airway, and we just stand by the door to help if needed. Your secondary objective is to determine if the case will rush up to the OR. 
 
 You should not start carrying this pager until after January, so ask your attending if you are unsure. 
