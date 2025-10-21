@@ -38,6 +38,7 @@ Prior to the start of the rotation, please read the following chapters in [Levit
 - (additional chapters in Section II are optional)
     
 > must be on campus or logged into VPN to access book online
+> Textbook pdf chapters [here](https://olucdenver-my.sharepoint.com/:f:/g/personal/elijah_christensen_cuanschutz_edu/EjtRvFCfrrJLk7u3gAY6jnEBQ-2NvTyeIj2TP5qjKI6T5Q?e=2GaDYg)
 
  
 
