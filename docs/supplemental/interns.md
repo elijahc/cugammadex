@@ -82,12 +82,12 @@ There's a separate section specifically for noteworthy department [contacts](./c
 
 
 ::: details **Chief resident contact info**
-Tim McGinnis: timothy.e.mcginnis@cuanschutz.edu, (303) 907-1526 
-Minh Do: minh.do@cuanschutz.edu, (713) 732-1940 
-Julia Blast: julia.bast@cuanschutz.edu, (608) 732-6373 
-Ellen Brinza: ellen.brinza@cuanschutz.edu, (248) 721-3085 
-Gavi Roda: ellen.brinza@cuanschutz.edu, (720) 299-6799 
-Brittany Denzer: brittany.denzer@cuanschutz.edu, (808) 936-7941
+- Tim McGinnis: timothy.e.mcginnis@cuanschutz.edu, (303) 907-1526 
+- Minh Do: minh.do@cuanschutz.edu, (713) 732-1940 
+- Julia Blast: julia.bast@cuanschutz.edu, (608) 732-6373 
+- Ellen Brinza: ellen.brinza@cuanschutz.edu, (248) 721-3085 
+- Gavi Roda: ellen.brinza@cuanschutz.edu, (720) 299-6799 
+- Brittany Denzer: brittany.denzer@cuanschutz.edu, (808) 936-7941
 :::
 
 ### Emergency Medicine Contact:
