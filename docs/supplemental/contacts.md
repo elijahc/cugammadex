@@ -35,33 +35,40 @@
 - **Bonnie Caywood** - Education Program Coordinator for Residents/Fellows
   - Email: bonnie.caywood@cuanschutz.edu
 
-## Chief Contacts (2023-2024)
+## Chief Residents
 
 ### Administrative Chiefs
-- **Dr. Kelsey Repine**
-  - Email: Kelsey.repine@cuanschutz.edu
-  - Phone: [tel:+13039174982](tel:+13039174982)
 
-- **Dr. Brian Tashjian**
-  - Email: Brian.tashjian@cuanschutz.edu
-  - Phone: [tel:+14084607200](tel:+14084607200)
+**Amy Krepps**
+- E: amy.krepps@cuanschutz.edu
+- Ph: 850-459-2843 
 
-- Administrative Chiefs Email: anesthesiology.chiefs@ucdenver.edu
+**Adrian Cardenas**
+- E: jesus.cardenas@cuanschutz.edu
+- Ph: 909-641-9187
 
-### Wellness Chief
-- **Dr. Tessa Klumpp**
-  - Email: Tessa.Klumpp@cuanschutz.edu
-  - Phone: [tel:+17039738686](tel:+17039738686)
+**Alex Linse**
+- E: alex.linse@cuanschutz.edu
+- Ph: 406-698-5864 
+
+::: info
+Administrative Chiefs Email: anesthesiology.chiefs@ucdenver.edu
+:::
+
+### Recruitment Chief
+**Shauna Maty**
+- E: shauna.maty@cuanschutz.edu   
+- Ph: 303-257-4847 
 
 ### Quality Improvement Chief
-- **Dr. Kevin Bartel**
-  - Email: Kevin.bartel@cuanschutz.edu
-  - Phone: [tel:+14152655707](tel:+14152655707)
+**Will Cohen**
+- E: William.cohen@cuanschutz.edu
+- Ph: 516-512-4542
 
 ### Intern Chief
-- **Dr. Dominic Royster**
-  - Email: Dominic.Royster@cuanschutz.edu
-  - Phone: [tel:+12106431078](tel:+12106431078)
+**Vikas Mahalingam**
+- E: vikasini.mahalingam@cuanschutz.edu 	 
+- Ph: 720-937-3766 
 
 ## Graduate Medical Education (GME) & FMLA Contact
 
