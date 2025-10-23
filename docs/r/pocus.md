@@ -30,11 +30,11 @@ You will meet with the ED attendings at 10:00 am at the charge desk in the ED. P
 ## U/S Curriculum
 Prior to the start of the rotation, please read the following chapters in [Levitov’s Critical Care Ultrasonography](http://accessanesthesiology.mhmedical.com/book.aspx?bookid=1115)
 
-- [Chapter 7](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618069)
-- [Chapter 9](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618323)
-- [Chapter 10](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618411)
-- [Chapter 11](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618462)
-- [Chapter 12](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618550)
+- [Chapter 7](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618069) TTE
+- [Chapter 9](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618323) LV Function
+- [Chapter 10](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618411) Preload Responsiveness
+- [Chapter 11](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618462) RV Function
+- [Chapter 12](https://accessanesthesiology.mhmedical.com/content.aspx?bookid=1115&sectionid=62618550) Cardiac Tamponade
 - (additional chapters in Section II are optional)
     
 > must be on campus or logged into VPN to access book online
