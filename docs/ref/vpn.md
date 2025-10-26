@@ -11,7 +11,7 @@ Domain: UNIVERSITY
 
 **Domain:** dnvrhlth
 
-::: error *Account Unlock / Reset*
+::: danger *Account Unlock / Reset*
 [Sailpoint password reset](https://denverhealth.identitynow.com/passwordreset)
 :::
 
