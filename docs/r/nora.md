@@ -210,6 +210,35 @@ MAC, groin access
 ### Computers
 - The IP addresses for the data ports on the booms in the HVC expire if not used after 30 days. This means that if you are doing an anesthetic in a room that we don’t use often (like cath lab 5 or cath lab 6) there will not be internet access without a call to the computer help desk. This is primarily an issue for interventional cardiology. IF you see that you are scheduled to do a case in an infrequently used room, such as cath lab 5 or cath lab 6, please reach out ahead of time to the nurses in that area and ask that the data port be issued a new IP address. Interventional Cardiology will try to be pro-active with this, but please do your part by helping folks remember or make the call yourself.
 
+## ECT
+
+### Location
+The ECT suite is located inside the secured psychiatry ward on the 5th floor at AIP3. Make sure you have badge access to the locked ward prior to going on the NORA rotation. If taking Teal Service Elevators (the first set of elevators that you encounter coming in from the resident garage), the entrance to the psychiatry ward pre/post unit is directly across from the elevator lobby on the 5th floor. If coming from the Yellow Staff Elevators (by pre-op), make a right once you’ve exited the elevator lobby (walk away from the OBGYN ward), you should reach a front desk area where there will be staff members and a security guard. Proceed straight past the counter and through the double doors, the entrance to pre/post is to your right.
+
+
+### Chart preparation
+All new ECT patients should have been seen by PPS unless they are transferred/referred from OSH or if they were admitted directly to inpatient. Returning patients will have their previous ECT anesthesia medications listed in the blue sticky note. Most likely the same regimen will be used again unless there are some dose titrations, which the attendings on both teams will discuss. If patient is new, the psychiatry team will have to perform their own pre-ECT eval and consent which could take some time.
+
+### Equipment
+All necessary equipment and meds are located inside the ECT suite, including a stocked Pyxis. Each patient will need an Ambu bag and a foam bite block. Make sure to have airway adjuncts nearby and ready.
+
+### Medications
+Prior to the patient being brough into the suite, the anesthesia and psychiatry team jointly determines the dose adjustments between treatments if required. The goal is to achieve a therapeutic level seizure that doesn't last too long, while maintaining reasonable hemodynamics. Benzodiazepines may be held on the DOS because they increase the seizure threshold, this will be managed by the psychiatry team. Check their notes for recommendations. Below is a list of common drugs you’ll encounter in the ECT suite
+
+**Preop seizure threshold modulation**
+**Anesthesia induction meds**
+- Methohexital
+- Etomidate
+- Ketamine
+**Muscle relaxation during seizure**
+- Succinylcholine
+- Rocuronium
+**Post-procedural**
+- Propofol
+- Midazolam
+- Lorazepam
+- Ketorolac
+- Ondansetron, diphenhydramine, dexamethasone, scop
 
 ## MRI
 You may anesthetize patients in the MRI adjacent to OR 25 (3T) or in the basement MRI (1.5T). You need to fill out an MRI screening form annually while in residency that will be kept on file. If you have not done this, arrive early to one of the MRI rooms and notify the MRI tech, and they will be able to get you the paperwork to be allowed to enter the MRI. They will give you a small card to designate you have done this – it’s good for a year, put it with your badge so you always have it!
