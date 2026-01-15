@@ -238,7 +238,37 @@ Prior to the patient being brough into the suite, the anesthesia and psychiatry 
 - Midazolam
 - Lorazepam
 - Ketorolac
-- Ondansetron, diphenhydramine, dexamethasone, scop
+- Ondansetron, diphenhydramine, dexamethasone, scopolamine
+
+### Choice of Anesthetic
+-	Drug of choice should have rapid onset of action and ideally should have minimal interference with inducing an effective therapeutic seizure.
+-	The minimum effective dose should be administered because lower doses are associated with increased rates of response to ECT.
+-	Because all anesthetic agents have the potential to interfere with the generation of a therapeutic seizure, the choice and dose of the anesthetic agent must be tailored to the individual needs of the patient during the course of their ECT sessions.
+
+### Workflow
+
+Prep meds, a new Ambu bag with an EtCO2 monitor line attached between the mask and the actual Ambu bag (this line will be connected to the monitor box when patient is brought to the room), and a soft bite block for each patient. The patients will be brought to the room by the ECT RN with monitors attached like the GI suite. Plug in the monitor brick into the wall mounted screen. The psychiatry team will get the patient ready by attaching the ECT delivery device to their head. Once their devices are attached, preoxygenate the patient via the Ambu bag to the face and wait. Encourage the patient to take deep, maximum-capacity breaths during this period.
+Once all team members are ready, attending anesthesiologist will start induction. The ECT RN will place and inflate a NIBP cuff to the ankle to 20% above initial systolic BP to stop paralytics from reaching the ankle. This is done so the seizure strength and duration may be monitored during the ECT. Start hyperventilating the patient with Ambu bag once induction is successful. The soft bite block should be placed into patient’s mouth at this time. If indicated, flumazenil will be administered after induction agent for patients on high dose benzos.
+Stop hyperventilating just prior to ECT delivery, which will be announced by the psychiatry team. As the ECT is delivered, both teams will observe for the onset and duration of seizures via foot motor contractions and EEG recording. Do not touch the patient while the EEG is recording – this is why the preoxygenation and hyperventilation is important prior to initiating the ECT.  During both the tonic and subsequent clonic phase of the seizure, the HR, rhythm, and BP are monitored to assess and promptly treat any significant prolonged cardiovascular response.
+Once the seizure has spontaneously terminated, the patient is manually ventilated until the return of adequate spontaneous respirations. If the patient is spontaneously breathing and vitals are stable, they’ll be transported to the PACU by the anesthesia team; they will most likely return to the same bay as before.
+
+### Special Considerations
+-	Laryngospasm
+	-	Patients who underwent ECT are at high risk of developing laryngospasm. Review presentation of laryngospasm and how to break it (jaw thrust, Larson maneuver, positive pressure ventilation, re-paralyze if still unable to break)
+-	Contraindications to succinylcholine
+	-	Will likely need rocuronium and reversal with Sugammadex. Plan dosage and workflow adjustments as needed based on ECT duration
+-	Benzodiazepine reversal
+	-	Review patient benzo regimen and dosing, flumazenil dosing. Discuss strategy and dose timing with psychiatry team
+-	Barbiturate allergies
+	-	Likely second line would be etomidate, less likely propofol
+
+Complications / Side-effects:
+-	Temporary memory loss
+-	Postictal disorientation
+-	Hypertension
+-	Bradycardia
+-	Tachycardia
+-	Prolonged seizure
 
 ## MRI
 You may anesthetize patients in the MRI adjacent to OR 25 (3T) or in the basement MRI (1.5T). You need to fill out an MRI screening form annually while in residency that will be kept on file. If you have not done this, arrive early to one of the MRI rooms and notify the MRI tech, and they will be able to get you the paperwork to be allowed to enter the MRI. They will give you a small card to designate you have done this – it’s good for a year, put it with your badge so you always have it!
