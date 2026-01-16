@@ -1,6 +1,6 @@
 ﻿---
 title: NORA
-outline: [2,4]
+outline: [2,3]
 ---
 
 # Non-OR Anesthesia (NORA)
