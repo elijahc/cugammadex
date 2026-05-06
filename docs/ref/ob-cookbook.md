@@ -47,7 +47,7 @@ Labor can be prolonged and painful, the most flexible option for pain control du
 
 # Cesarean Delivery
 
-## CS with epidural
+## Urgent CS with existing CLE
 Cesarean deliveries under epidural require a more dense analgesia than laboring.
 Typical LA dose is **20cc bolus** for cesarean delivery (T4 level) but some parturients may require up to 40cc.
 C-Section's can occur across a spectrum of urgencies and will impact LA choice.
