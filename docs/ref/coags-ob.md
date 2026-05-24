@@ -11,12 +11,53 @@ Below is a table drafted from combined SOAP consensus Statement as well as ASRA 
 
 ## SQH
 
-| UFH SQ - Low Dose    	| Hold      	|
+**UFH SQ up to 5000U TID** 
+
+| Low dose            	| Hold      	|
 |---------------------	|-----------	|
 | **Pre-placement**   	| 4-6h      	|
 | **After placement** 	| immediate 	|
 | **Pre-removal**     	| 4-6h      	|
 | **After removal**   	| immediate 	|
+
+**UFH SQ up to 10,000U BID** 
+
+| Intermediate dose    	| Hold      	|
+|---------------------	|-----------	|
+| **Pre-placement**   	| 12h & aPTT 	|
+| **After placement** 	| 1h         	|
+| **Pre-removal**     	| 4-6h      	|
+| **After removal**   	| immediate 	|
+
+**UFH SQ >20,000U total daily** 
+
+| High Dose            	| Hold      	|
+|---------------------	|-----------	|
+| **Pre-placement**   	| 24h & aPTT 	|
+| **After placement** 	| 1h         	|
+| **Pre-removal**     	| Not advised	|
+| **After removal**   	| immediate 	|
+
+
+## LMWH
+
+**Enoxaparin SQ - 40mg QD or 30mg BID** 
+
+| Low Dose            	| Hold      	                    |
+|---------------------	|-------------------------------	|
+| **Pre-placement**   	| 12h       	                    |
+| **After placement** 	| 12h        	                    |
+| **Pre-removal**     	| Not advised	                    |
+| **After removal**   	| 4h AND<br> >12h from placement 	|
+
+**Enoxaparin SQ - 1.5mg/kg QD or 1.0mg/kg BID** 
+
+| Low Dose            	| Hold      	                    |
+|---------------------	|-------------------------------	|
+| **Pre-placement**   	| 24h       	                    |
+| **After placement** 	| 24h        	                    |
+| **Pre-removal**     	| Not advised	                    |
+| **After removal**   	| 4h AND<br> >24h from placement 	|
 
 ## All
 
