@@ -86,15 +86,7 @@ That said, the OB rotation is a really good one, much loved by all for several r
 > [!IMPORTANT]
 > Just like the main OR all airway equipment must remain sealed until it is going to be used—this is per hospital infection control requirement.
 
-- OR Pyxis contains all narcotics. We now have L&D narcotic bags, Type “L&D” to search for the narcotic bag in the pyxis
-::: details
-   **L&D Narc Bag**:
-   - P20 x1
-   - fent 100 mcg
-   - ephedrine 50 mg
-   - morphine 5mg (or 10 mg – check prior)
-   - midazolam 2mg.
-:::
+- ORs on OB have all have A-station Pyxis now and contains all narcotics. There are no longer narc bags, you can pull propofol, fentanyl, morphine, or midazolam as you would.
 
 - We no longer have direct access to uterotonics (other than Pitocin). The floor nurses can pull the other uterotonics for you. If you need everything emergently, you can also request a “tackle box” from the nurses, but these should be reserved for higher acuity situations. During the timeout, please discuss the potential need for other uterotonics so the circulating RN can get it for you.
 
@@ -127,6 +119,18 @@ That said, the OB rotation is a really good one, much loved by all for several r
 
 There are many differences to your OB month, so it's best to know where the OR/workroom/pyxis/call rooms are located. This rotation can be a lot of fun, but things happen quickly and it's nice to be prepared.
 
+### Backcharting vitals
+- If you forget to start the record you can recover/backchart vitals.
+- Once you realize this if you're already in the room, ask the RN not to "verify" vitals coming into epic
+
+> [!WARNING] 
+> Vitals that are already verified can't be backcharted, you'll have to do them manually
+
+- Complete the procedure as usual
+- Open the intraop record, chart the anesthesia start and link anesthesia device events (I usually use the timestamp the RN documents "provider in room" in the flowsheet)
+- From the intraop record click Device -> File Data (Tab) -> Select All (Check box) -> File and Close (Button)
+- Again, if the vitals have been already been verified, you will see no data in the File Data tab
+
 ## Common Situations on the OB Floor
 
 ### Called for Labor Epidural
@@ -135,7 +139,7 @@ There are many differences to your OB month, so it's best to know where the OR/w
 2. Log into Pyxis (under OR anesthesia, not floor. This is important in order to find fent and epidural bag)
 3. Prior to heading into the room go to intraop tab, anesthesia start, link anesthesia device (Important to do this step or else you will not get vitals)
 4. Grab materials from either workroom or cart outside the room.
-5. Call OB attending
+5. Call OB attending (or right before you glove up)
 6. Help RN position patient (sitting edge of bed, expose back, and remove anything that will be in your way)
 7. Remove ALL jewelry, watches, and sleeves below the elbow.
 8. Open kit and have everything ready to go.
