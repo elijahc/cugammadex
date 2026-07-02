@@ -203,6 +203,6 @@ Call Room -- badge access 
 
 Store/Pyxis Room -- 3030#  
 
-Break room -- 9669#  
+Break room -- 9669# or 84845#
 
 Rooms that don’t have badge access -- 9669#  
